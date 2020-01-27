@@ -22,4 +22,4 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 # 主要新闻
 
 - [疫情最新进展](https://news.sina.cn/zt_d/feiyan1231)
-- [2020年1月27日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/LICENSE)
+- [2020年1月27日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200127.md)
