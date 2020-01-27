@@ -24,3 +24,6 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 - [疫情最新进展](https://news.sina.cn/zt_d/feiyan1231)
 - [2020年1月27日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200127.md)
 	- 深夜重磅！国务院发通知，春节假期延至2月2日
+	- 李克强总理来到武汉：希望武汉老百姓平安健康长寿
+	- 上海发布：企业不早于2月9号24时复工，各类学校2月17日前不开学
+	- 浙江成功分离出新型冠状病毒毒株录像画面公开
