@@ -1,5 +1,5 @@
 # ChineseVictory
-Documenting Chinese efforts to combat the new coronavirus（记录中国人抗击新型冠状病毒的努力）
+Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新型冠状病毒的努力）
 
 # 最新情况
 
@@ -22,3 +22,4 @@ Documenting Chinese efforts to combat the new coronavirus（记录中国人抗�
 # 主要新闻
 
 - [疫情最新进展](https://news.sina.cn/zt_d/feiyan1231)
+- [2020年1月27日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/LICENSE)
