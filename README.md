@@ -13,7 +13,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 但是毕竟一个人的能力的是有限的，有时难免会出现错误，当您发现文中数据出现问题时，请及时指正，我会在第一时间进行修改，防止给其他人带来误导。
 
-# 感染人数及分布
+# 疫情地图
 
 - [实时播报(1)](https://news.sina.cn/zt_d/yiqing0121) -- 新浪新闻提供
 - [实时播报(2)](https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0) -- 丁香园提供
