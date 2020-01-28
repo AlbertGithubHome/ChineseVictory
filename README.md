@@ -28,6 +28,9 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 - [2020年1月28日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200128.md)
 	- 截止2020年1月28日11:01，全国确诊4529例，疑似6973例，死亡106例，治愈60例
+	- 国家卫健委通报新冠肺炎患者治愈出院标准
+	- 流行病学专家曾光：新型冠状病毒比SARS狡猾
+	- 公安部部长赵克志：严厉打击利用疫情哄抬物价、囤积居奇
 
 - [2020年1月27日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200127.md)
 	- 深夜重磅！国务院发通知，春节假期延至2月2日
