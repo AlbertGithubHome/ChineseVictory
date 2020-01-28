@@ -27,7 +27,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 - [疫情最新进展](https://news.sina.cn/zt_d/feiyan1231)
 
 - [2020年1月28日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200128.md)
-	- 深夜重磅！国务院发通知，春节假期延至2月2日
+	- 截止2020年1月28日11:01，全国确诊4529例，疑似6973例，死亡106例，治愈60例
 
 - [2020年1月27日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200127.md)
 	- 深夜重磅！国务院发通知，春节假期延至2月2日
