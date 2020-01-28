@@ -18,6 +18,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 - [实时播报(1)](https://news.sina.cn/zt_d/yiqing0121) -- 新浪新闻提供
 - [实时播报(2)](https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0) -- 丁香园提供
 - [实时播报(3)](https://news.qq.com/zt2020/page/feiyan.htm#charts) -- 腾讯新闻提供
+- [实时播报(4)](http://news.163.com/special/epidemic/#map_block) -- 网易新闻提供
 
 # 医疗信息
 
