@@ -17,6 +17,11 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 - [实时播报(1)](https://news.sina.cn/zt_d/yiqing0121) -- 新浪新闻提供
 - [实时播报(2)](https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0) -- 丁香园提供
+- [实时播报(3)](https://news.qq.com/zt2020/page/feiyan.htm#charts) -- 腾讯新闻提供
+
+# 医疗信息
+
+- [定点医院、发热门诊](https://news.qq.com/zt2020/page/feiyan.htm#prevent) -- 腾讯新闻提供
 
 # 公益捐助
 
@@ -24,7 +29,10 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 # 主要新闻
 
-- [疫情最新进展](https://news.sina.cn/zt_d/feiyan1231)
+- [疫情最新进展(1)](https://news.sina.cn/zt_d/feiyan1231)
+- [疫情最新进展(2)](https://news.qq.com/zt2020/page/feiyan.htm#news)
+
+- [2020年1月29日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200129.md)
 
 - [2020年1月28日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200128.md)
 	- 截止2020年1月28日11:01，全国确诊4529例，疑似6973例，死亡106例，治愈60例
