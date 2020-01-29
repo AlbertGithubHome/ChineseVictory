@@ -19,6 +19,8 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 - [实时播报(2)](https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0) -- 丁香园提供
 - [实时播报(3)](https://news.qq.com/zt2020/page/feiyan.htm#charts) -- 腾讯新闻提供
 - [实时播报(4)](http://news.163.com/special/epidemic/#map_block) -- 网易新闻提供
+- [实时播报(5)](https://alihealth.taobao.com/medicalhealth/influenzamap?anchor=info&spm=a2oua.alipayad.wuhan.wenzhen&chInfo=ch_lanmu) -- 阿里健康提供
+
 
 # 医疗信息
 
@@ -28,6 +30,10 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 - [微公益捐款](https://m.weibo.cn/p/1084030002_7121?)
 
+# 火神雷神
+
+- [火神山&雷神山医院建造过程在线直播](https://m.yangshipin.cn/static/2020/c0126.html)
+
 # 主要新闻
 
 - 最新疫情进展
@@ -35,6 +41,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 	- [腾讯新闻](https://news.qq.com/zt2020/page/feiyan.htm#news)
 
 - [2020年1月29日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200129.md)
+	- 截止2020年1月29日09:18，全国确诊5974例，疑似9239例，死亡132例，治愈106例
 
 - [2020年1月28日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200128.md)
 	- 截止2020年1月28日11:01，全国确诊4529例，疑似6973例，死亡106例，治愈60例
