@@ -40,8 +40,14 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 	- [新浪新闻](https://news.sina.cn/zt_d/feiyan1231)
 	- [腾讯新闻](https://news.qq.com/zt2020/page/feiyan.htm#news)
 
+- [2020年1月30日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200130.md)
+
+
 - [2020年1月29日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200129.md)
 	- 截止2020年1月29日09:18，全国确诊5974例，疑似9239例，死亡132例，治愈106例
+	- 国家卫健委发布会回应500万人离开武汉：我们共同的敌人是疾病，不是武汉人
+	- 配合疫情防控 铁路部门延长退票时限至3月25日
+	- 抗击疫情·睿思这么看：钟南山不说动，我绝不动！
 
 - [2020年1月28日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200128.md)
 	- 截止2020年1月28日11:01，全国确诊4529例，疑似6973例，死亡106例，治愈60例
@@ -55,3 +61,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 	- 上海发布：企业不早于2月9号24时复工，各类学校2月17日前不开学
 	- 浙江成功分离出新型冠状病毒毒株录像画面公开
 	- 截止2020年1月27日20:36，全国确诊2844例，疑似5794例，死亡81例，治愈57例
+
+# 评钟南山
+
+- [老百姓不会太多溢美之词，这句“看到你，我心里就踏实”，就是最大的赞美和信任。](http://news.sina.com.cn/c/2020-01-29/doc-iihnzhha5291046.shtml)
