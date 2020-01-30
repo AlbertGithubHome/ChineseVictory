@@ -51,6 +51,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 	- 西藏出现首例确诊病例（之前只有西藏还未发现病例）
 	- 切勿随意抛弃猫狗等宠物！世卫组织提醒：没有证据显示猫狗等宠物会感染新型冠状病毒
 	- 感染新冠肺炎已治愈，北大一院呼吸科主任王广发今出院
+	- 面对督查组“一问三不知” 湖北黄冈卫健委主任唐志红被免职
 
 - [2020年1月29日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200129.md)
 	- 截止2020年1月29日09:18，全国确诊5974例，疑似9239例，死亡132例，治愈106例
