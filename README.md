@@ -41,7 +41,8 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 	- [腾讯新闻](https://news.qq.com/zt2020/page/feiyan.htm#news)
 
 - [2020年1月30日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200130.md)
-
+	- 截止2020年1月30日08:11，全国确诊7736例，疑似12167例，死亡170例，治愈124例
+	- 西藏出现首例确诊病例（之前只有西藏还未发现病例）
 
 - [2020年1月29日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200129.md)
 	- 截止2020年1月29日09:18，全国确诊5974例，疑似9239例，死亡132例，治愈106例
