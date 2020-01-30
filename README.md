@@ -36,7 +36,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 # 同行隐患
 
--[病患同行隐患查询，查询自己出行的交通工具是否有确认患者](https://news.sina.cn/project/fy2020/fysearch.shtml)
+- [病患同行隐患查询，查询自己出行的交通工具是否有确认患者](https://news.sina.cn/project/fy2020/fysearch.shtml)
 
 # 主要新闻
 
