@@ -44,8 +44,16 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 	- [新浪新闻](https://news.sina.cn/zt_d/feiyan1231)
 	- [腾讯新闻](https://news.qq.com/zt2020/page/feiyan.htm#news)
 
+- [2020年2月1日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200201.md)
+
 - [2020年1月31日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200131.md)
 	- 截止2020年1月31日08:17，全国确诊9720例，疑似15238例，死亡213例，治愈171例
+	- 湖北红会回应“口罩失误”慈善机构是桥还是墙？
+	- 治愈后还有可能复发吗？专家：还有再感染风险
+	- 返京人员无法进入社区怎么办？北京民政局回应
+	- 北京市政府发文，疫情防控期间，各企业灵活安排工作，延长假期至2月10日
+	- 北京今年前两月的社保征收延长至3月底
+	- 武汉市金银潭医院20名新型冠状病毒肺炎患者集体出院
 
 - [2020年1月30日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200130.md)
 	- 截止2020年1月30日08:11，全国确诊7736例，疑似12167例，死亡170例，治愈124例
