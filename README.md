@@ -44,11 +44,20 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 	- [新浪新闻](https://news.sina.cn/zt_d/feiyan1231)
 	- [腾讯新闻](https://news.qq.com/zt2020/page/feiyan.htm#news)
 
+- [2020年2月2日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200202.md)
+
 - [2020年2月1日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200201.md)
 	- 截止2020年2月1日08:21，全国确诊11821例，疑似17988例，死亡259例，治愈243例
+	- 别抢双黄连了！抑制并不等于预防和治疗！
+	- 家属被隔离脑瘫儿无人照顾死亡 当地书记镇长被免
+	- 国家卫健委介绍孕产妇、婴幼儿和托育机构健康防控情况
+	- 好消息！湖南4岁最小患者出院
+	- 湖北黄冈：即日起实行市区人口出行管控措施
+	- 公众连夜排队抢购 院士告诉你：双黄连对新型冠状病毒不具针对性！
 
 - [2020年1月31日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200131.md)
 	- 截止2020年1月31日08:17，全国确诊9720例，疑似15238例，死亡213例，治愈171例
+	- WHO宣布新冠疫情为国际关注的突发公共卫生事件
 	- 湖北红会回应“口罩失误”慈善机构是桥还是墙？
 	- 治愈后还有可能复发吗？专家：还有再感染风险
 	- 返京人员无法进入社区怎么办？北京民政局回应
