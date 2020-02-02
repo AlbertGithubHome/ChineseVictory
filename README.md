@@ -45,7 +45,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 	- [腾讯新闻](https://news.qq.com/zt2020/page/feiyan.htm#news)
 
 - [2020年2月2日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200202.md)
-	- 截止2020年2月1日08:21，全国确诊14411例，疑似19544例，死亡304例，治愈328例
+	- 截止2020年2月1日08:03，全国确诊14411例，疑似19544例，死亡304例，治愈328例
 
 - [2020年2月1日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200201.md)
 	- 截止2020年2月1日08:21，全国确诊11821例，疑似17988例，死亡259例，治愈243例
