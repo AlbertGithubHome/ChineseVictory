@@ -44,8 +44,15 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 	- [新浪新闻](https://news.sina.cn/zt_d/feiyan1231)
 	- [腾讯新闻](https://news.qq.com/zt2020/page/feiyan.htm#news)
 
+- [2020年2月4日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200204.md)
+
 - [2020年2月3日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200203.md)
-	- 截止2020年2月2日08:03，全国确诊 X 例，疑似 X 例，死亡 X 例，治愈 X 例
+	- 截止2020年2月2日08:41，全国确诊 17238 例，疑似 21558 例，死亡 361 例，治愈 475 例
+	- 李兰娟：武汉检测试剂不够 不是每个人能得到检测
+	- 李彦宏全员信透露：百度AI算法已将病毒RNA分析时间从55分钟缩短到27秒
+	- 首次！门把手上发现新型冠状病毒踪迹
+	- 成都5.1级地震未造成人员伤亡 四川终止三级响应
+	- 直面地震+疫情：来看成都群众的阳光段子
 
 - [2020年2月2日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200202.md)
 	- 截止2020年2月2日08:03，全国确诊14411例，疑似19544例，死亡304例，治愈328例
