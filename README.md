@@ -46,6 +46,11 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 - [2020年2月4日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200204.md)
     - 截止2020年2月4日08:02，全国确诊 20471 例，疑似 23214 例，死亡 425 例，治愈 642 例
+    - 火神山医院正式接诊 央企9天跑出“中国速度”
+    - 84消毒液能杀死新冠病毒吗？你想知道的都在这里
+    - 转扩！关于新型冠状病毒肺炎的8个最新解释
+    - 疫情下感人的瞬间：封城后的20万外卖订单，武汉还能吃火锅
+    - 湖北省红十字会专职副会长失职失责被免职
 
 - [2020年2月3日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200203.md)
     - 截止2020年2月3日08:41，全国确诊 17238 例，疑似 21558 例，死亡 361 例，治愈 475 例
