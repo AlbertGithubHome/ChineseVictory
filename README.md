@@ -45,9 +45,10 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 	- [腾讯新闻](https://news.qq.com/zt2020/page/feiyan.htm#news)
 
 - [2020年2月4日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200204.md)
+	- 截止2020年2月2日08:02，全国确诊 20471 例，疑似 23214 例，死亡 425 例，治愈 642 例
 
 - [2020年2月3日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200203.md)
-	- 截止2020年2月2日08:41，全国确诊 17238 例，疑似 21558 例，死亡 361 例，治愈 475 例
+	- 截止2020年2月3日08:41，全国确诊 17238 例，疑似 21558 例，死亡 361 例，治愈 475 例
 	- 李兰娟：武汉检测试剂不够 不是每个人能得到检测
 	- 李彦宏全员信透露：百度AI算法已将病毒RNA分析时间从55分钟缩短到27秒
 	- 首次！门把手上发现新型冠状病毒踪迹
