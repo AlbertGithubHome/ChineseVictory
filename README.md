@@ -44,8 +44,15 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - [新浪新闻](https://news.sina.cn/zt_d/feiyan1231)
     - [腾讯新闻](https://news.qq.com/zt2020/page/feiyan.htm#news)
 
+- [2020年2月6日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200206.md)
+
 - [2020年2月5日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200205.md)
-    - 截止2020年2月9日09:23，全国确诊 24363 例，疑似 23260 例，死亡 491 例，治愈 872 例
+    - 截止2020年2月5日09:23，全国确诊 24363 例，疑似 23260 例，死亡 491 例，治愈 872 例
+    - 雷神山医院具备交付条件 “可移动大号N95口罩”上汽负压救护车火线入列
+    - 国家卫健委：出院标准一直全国适用，公布全国统一出院标准
+    - 发改委再次回应口罩短缺问题
+    - 出生30小时婴儿确诊新冠肺炎 专家：可能存在母婴垂直感染
+    - 中国发布｜北京禁止各类群体性聚餐活动
 
 - [2020年2月4日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200204.md)
     - 截止2020年2月4日08:02，全国确诊 20471 例，疑似 23214 例，死亡 425 例，治愈 642 例
