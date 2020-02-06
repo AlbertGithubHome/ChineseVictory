@@ -44,6 +44,8 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - [新浪新闻](https://news.sina.cn/zt_d/feiyan1231)
     - [腾讯新闻](https://news.qq.com/zt2020/page/feiyan.htm#news)
 
+- [2020年2月7日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200207.md)
+
 - [2020年2月6日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200206.md)
     - 截止2020年2月6日08:09，全国确诊 28260 例，疑似 24902 例，死亡 564 例，治愈 1153 例
     - 全国新冠肺炎累计治愈出院病例破千
