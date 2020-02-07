@@ -45,6 +45,11 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - [腾讯新闻](https://news.qq.com/zt2020/page/feiyan.htm#news)
 
 - [2020年2月7日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200207.md)
+    - 截止2020年2月7日08:12，全国确诊 31211 例，疑似 26359 例，死亡 637 例，治愈 1542 例
+    - 湖北省副省长：现阶段湖北医护人员仍然紧缺
+    - 致敬李文亮医生，要让人们敢于“吹哨”
+    - 华南农大：研究只是确认穿山甲为新冠病毒潜在中间宿主，而中间宿主可能有多种野生动物
+    - 疫情期间，部分银行定期存款到期可自动延期，按原利率计息至3月31日
 
 - [2020年2月6日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200206.md)
     - 截止2020年2月6日08:09，全国确诊 28260 例，疑似 24902 例，死亡 564 例，治愈 1153 例
