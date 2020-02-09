@@ -44,11 +44,20 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - [新浪新闻](https://news.sina.cn/zt_d/feiyan1231)
     - [腾讯新闻](https://news.qq.com/zt2020/page/feiyan.htm#news)
 
+- [2020年2月10日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200210.md)
+
 - [2020年2月9日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200209.md)
+    - 截止2020年2月9日09:31，全国确诊 37251 例，疑似 28942 例，死亡 812 例，治愈 2652 例
+    - 中央指导组专家:新冠肺炎愈后一般6个月内不会再得
+    - 湖北以外地区新增病例连降5天
+    - 国务院办公厅：有序恢复公路运输服务！严禁擅自封路！
+    - 中国疾控中心：气溶胶传播尚未明确
+    - 多地规定：公职人员不得戴N95医用口罩
 
 - [2020年2月8日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200208.md)
     - 截止2020年2月8日09:31，全国确诊 34598 例，疑似 27657 例，死亡 723 例，治愈 2054 例
     - 四部门:依法严惩疫情期间七类涉医违法犯罪
+    - 定了 “新冠肺炎”英文简称“NCP
     - 春节假期再次延长至2月20日？假的
     - 武汉雷神山医院正式启用 收治新冠肺炎确诊患者
     - 武汉雷神山医院迎来首批医疗队员 医院只设住院不设门诊
