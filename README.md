@@ -44,7 +44,16 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - [新浪新闻](https://news.sina.cn/zt_d/feiyan1231)
     - [腾讯新闻](https://news.qq.com/zt2020/page/feiyan.htm#news)
 
+- [2020年2月11日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200211.md)
+
 - [2020年2月10日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200210.md)
+    - 截止2020年2月10日08:02，全国确诊 40235 例，疑似 23589 例，死亡 909 例，治愈 3283 例
+    - 浙江一人违反居家隔离规定妨碍公务被判九个月
+    - 企业微信：今早服务器请求上涨超10倍
+    - 钟南山团队成员回应“潜伏期最长24天”:仍是个例
+    - 日本邮轮又增65名感染者，药品短缺、内舱生活成隐忧
+    - 2019年全国财政收入超过19万亿 同比增长3.8%
+    - 武汉市委书记：目标是明天完成全部疑似患者检测清零
 
 - [2020年2月9日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200209.md)
     - 截止2020年2月9日09:31，全国确诊 37251 例，疑似 28942 例，死亡 812 例，治愈 2652 例
