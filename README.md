@@ -53,6 +53,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - 全国首地清零！西藏唯一确诊病例出院
     - 教育部回应高考是否推迟
     - 国务院常务会议：高度关注就业问题 防止大规模裁员
+    - 中央指导组约谈后，武昌区政府对未及时安置重症病人逐一道歉
 
 - [2020年2月11日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200211.md)
     - 截止2020年2月11日09:35，全国确诊 42708 例，疑似 21675 例，死亡 1017 例，治愈 3998 例
