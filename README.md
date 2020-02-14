@@ -44,13 +44,22 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - [新浪新闻](https://news.sina.cn/zt_d/feiyan1231)
     - [腾讯新闻](https://news.qq.com/zt2020/page/feiyan.htm#news)
 
+- [2020年2月15日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200215.md)
+
 - [2020年2月14日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200214.md)
+    - 截止2020年2月14日11:32，全国确诊 63932 例，疑似 10109 例，死亡 1381 例，治愈 6794 例
+    - 最高检依法对河北省原副省长李谦决定逮捕
+    - 多地明确延迟开学时间可用暑期补齐
+    - 全国1716名医务人员感染新冠肺炎，6人死亡
+    - 武汉武昌区转运患者组织不力 相关责任人被问责
+    - 即日起返京人员到京后 均应居家或集中观察14天
 
 - [2020年2月13日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200213.md)
     - 截止2020年2月13日10:20，全国确诊 59882 例，疑似 16067 例，死亡 1368 例，治愈 5928 例
     - “政法老兵”到位!上海市市长应勇任湖北省委书记
     - 中央决定：王忠林任武汉市委书记，马国强不再担任
     - 粪便中检测到新冠病毒，不意味着粪-口传播
+    - 湖北130万只民用口罩投向市场 进价1元零售2元
     - 金银潭医院院长：患者康复后体内含抗体 恳请康复患者捐赠血浆
 
 - [2020年2月12日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200212.md)
