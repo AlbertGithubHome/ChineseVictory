@@ -44,6 +44,8 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - [新浪新闻](https://news.sina.cn/zt_d/feiyan1231)
     - [腾讯新闻](https://news.qq.com/zt2020/page/feiyan.htm#news)
 
+- [2020年2月16日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200216.md)
+
 - [2020年2月15日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200215.md)
     - 截止2020年2月15日08:25，全国确诊 66576 例，疑似 8969 例，死亡 1524 例，治愈 8101 例
     - 证监会：“绿色通道”支持疫情严重地区企业发行公司债
