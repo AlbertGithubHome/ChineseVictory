@@ -45,6 +45,14 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - [腾讯新闻](https://news.qq.com/zt2020/page/feiyan.htm#news)
 
 - [2020年2月15日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200215.md)
+    - 截止2020年2月15日08:25，全国确诊 66576 例，疑似 8969 例，死亡 1524 例，治愈 8101 例
+    - 证监会：“绿色通道”支持疫情严重地区企业发行公司债
+    - 央行：已向全国调拨6000亿元新钞
+    - 银保监会：禁止保险公司开发有关新冠肺炎单一责任保险产品
+    - 共享充电宝陷入生死危机：1月工资减半 员工无限期待命
+    - 铁路部门推行隔座售票，不卖无座票
+    - 新冠药物和疫苗进展如何？科学家来答疑了（一批药物已经初步显示出良好的临床疗效）
+    - 部分疫苗开始动物试验 聚焦新冠肺炎疫苗研发进展
 
 - [2020年2月14日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200214.md)
     - 截止2020年2月14日11:32，全国确诊 63932 例，疑似 10109 例，死亡 1381 例，治愈 6794 例
@@ -52,6 +60,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - 多地明确延迟开学时间可用暑期补齐
     - 全国1716名医务人员感染新冠肺炎，6人死亡
     - 武汉武昌区转运患者组织不力 相关责任人被问责
+    - 国家发改委：80万只医用N95级口罩运至武汉
     - 即日起返京人员到京后 均应居家或集中观察14天
 
 - [2020年2月13日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200213.md)
