@@ -44,7 +44,17 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - [新浪新闻](https://news.sina.cn/zt_d/feiyan1231)
     - [腾讯新闻](https://news.qq.com/zt2020/page/feiyan.htm#news)
 
+- [2020年2月17日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200217.md)
+
 - [2020年2月16日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200216.md)
+    - 截止2020年2月16日09:56，全国确诊 68584 例，疑似 8228 例，死亡 1666 例，治愈 9434 例
+    - 武汉病毒所一研究生系零号病人？石正丽：无一人感染
+    - 十连降！多地通报无新增确诊病例
+    - 国家卫健委：出现社区传播疫情，必要时可采取措施限制人员出入
+    - 国家卫健委：不应限制外出工作人员回到小区
+    - 患者初七回北京上班，食堂一起排队的同事“中招”了
+    - 突破！全国第一例、第二例由遗体解剖获得的新冠肺炎病理今日被送检
+    - 2月17日零时至疫情防控结束，北京所有高速免费通行
 
 - [2020年2月15日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200215.md)
     - 截止2020年2月15日08:25，全国确诊 66576 例，疑似 8969 例，死亡 1524 例，治愈 8101 例
