@@ -44,7 +44,18 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - [新浪新闻](https://news.sina.cn/zt_d/feiyan1231)
     - [腾讯新闻](https://news.qq.com/zt2020/page/feiyan.htm#news)
 
+- [2020年2月18日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200218.md)
+
 - [2020年2月17日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200217.md)
+    - 截止2020年2月17日08:35，全国确诊 70597 例，疑似 8228 例，死亡 1770 例，治愈 10784 例
+    - 批新冠肺炎逝者遗体解剖完成 病理报告或需10日
+    - 满载率三成以下 北京地铁今晨未现早高峰
+    - 湖北：全力加强患者救治 社区管控与筛查甄别
+    - 北京交警：外埠小客车进京证暂停现场办理，一律改为网上申办
+    - 北京将完善优化小客车调控政策 加大打击租售指标力度
+    - 日本专家组认为日本处于新冠疫情早期阶段
+    - 湖北寄往北京的邮件全部喷淋消毒
+    - 中疾控报告:超3千名医护感染新冠病毒 确诊1716例
 
 - [2020年2月16日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200216.md)
     - 截止2020年2月16日09:56，全国确诊 68584 例，疑似 8228 例，死亡 1666 例，治愈 9434 例
