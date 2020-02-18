@@ -46,6 +46,14 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 - [2020年2月18日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200218.md)
 
+- [2020年2月18日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200218.md)
+    - 截止2020年2月18日22:02，全国确诊 72532 例，疑似 6242 例，死亡 1872 例，治愈 12999
+    - 2月份以来 全国日新增确诊病例首次跌破两千
+    - 广东已筛选54个上市中成药体外试验
+    - 国务院联防联控机制：以县为单位 科学划分疫情风险等级
+    - 国务院决定：阶段性减免企业社保费、缓缴住房公积金
+    - 湖北鄂州市卫健委主任被提名免职
+
 - [2020年2月17日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200217.md)
     - 截止2020年2月17日08:35，全国确诊 70597 例，疑似 8228 例，死亡 1770 例，治愈 10784 例
     - 批新冠肺炎逝者遗体解剖完成 病理报告或需10日
