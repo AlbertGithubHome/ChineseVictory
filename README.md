@@ -44,7 +44,15 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - [新浪新闻](https://news.sina.cn/zt_d/feiyan1231)
     - [腾讯新闻](https://news.qq.com/zt2020/page/feiyan.htm#news)
 
-- [2020年2月18日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200218.md)
+- [2020年2月20日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200220.md)
+
+- [2020年2月19日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200219.md)
+    - 截止2020年2月19日22:11，全国确诊 74284 例，疑似 5248 例，死亡 2009 例，治愈 14938 例
+    - 火神山医院工人不要工钱坚决不领工资? 承建方回应
+    - 消毒剂使用指南：不宜对室外环境开展大规模消毒
+    - 中国疾控中心论文:1月上旬新冠肺炎已在湖北省外蔓延
+    - 河北已有8市部分公交线路恢复运营
+    - 中央赴湖北指导组：坚持重症轻症并重，千方百计救治患者
 
 - [2020年2月18日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200218.md)
     - 截止2020年2月18日22:02，全国确诊 72532 例，疑似 6242 例，死亡 1872 例，治愈 12999
