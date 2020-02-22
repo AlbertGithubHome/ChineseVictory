@@ -44,7 +44,16 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - [新浪新闻](https://news.sina.cn/zt_d/feiyan1231)
     - [腾讯新闻](https://news.qq.com/zt2020/page/feiyan.htm#news)
 
+- [2020年2月23日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200223.md)
+
 - [2020年2月22日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200222.md)
+    - 截止2020年2月22日21:04，全国确诊 76396 例，疑似 5365 例，死亡 2348 例，治愈 21070 例
+    - 国家卫健委：核酸检验阴性不能排除新冠病毒感染
+    - 好消息！全国连续10天治愈出院超千人
+    - 全国18地新增病例为0 全国累计治愈超2万人
+    - 多地景区开园 旅游业逐步复苏
+    - 青武汉：40家机构同时开工 实现核酸检测存量清零
+    - 浙江：第一批疫苗已产生抗体，进入动物实验阶段
 
 - [2020年2月21日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200221.md)
     - 截止2020年2月21日22:00，全国确诊 75571 例，疑似 5206 例，死亡 2239 例，治愈 18744 例
