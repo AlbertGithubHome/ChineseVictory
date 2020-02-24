@@ -5,7 +5,7 @@
 # @Link     : http://blog.csdn.net/albertsh
 # @Github   : https://github.com/AlbertGithubHome
 __author__ = 'AlbertS'
-# @Subject  : auto update news step 1
+# @Subject  : auto update news step 1 -- copy and split image
 
 import os
 import time

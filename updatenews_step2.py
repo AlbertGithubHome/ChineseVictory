@@ -5,7 +5,7 @@
 # @Link     : http://blog.csdn.net/albertsh
 # @Github   : https://github.com/AlbertGithubHome
 __author__ = 'AlbertS'
-# @Subject  : auto update news step 2
+# @Subject  : auto update news step 2 -- update news
 
 import os
 import time
