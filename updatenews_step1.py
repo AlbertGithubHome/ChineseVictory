@@ -11,18 +11,7 @@ import os
 import time
 import datetime
 from PIL import Image
-
-TODAY_STR = time.strftime('%Y%m%d',time.localtime(time.time()))
-
-def get_newst_image_path():
-    result_file = None
-    for root, dir, files in os.walk("D:\\data\\2019nCoV"):
-        for file in files:
-            if '_' in file:
-                continue
-            elif TODAY_STR in file:
-                result_file = os.path.join(root, file)
-    return result_file
+import updatenews_common as upnews
 
 def create_new_file(file_name):
     file_datetime = datetime.datetime.strptime(file_name,'%Y%m%d%H%M%S')
@@ -65,7 +54,7 @@ def split_image(input_file_name, row_part, col_part):
 
 
 def main():
-    full_path_file = get_newst_image_path()
+    full_path_file = upnews.get_newst_image_path()
     if full_path_file == None:
         print("picture not found! please check image")
         return None
