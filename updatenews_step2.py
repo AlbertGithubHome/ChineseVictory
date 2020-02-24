@@ -13,6 +13,8 @@ import datetime
 from PIL import Image
 import updatenews_common as upnews
 
+TARGET_LINE = 50
+
 def update_readme_file(file_name):
     news_list = []
     new_file_name = './MajorNews/'+file_name[:8]+'.md'
