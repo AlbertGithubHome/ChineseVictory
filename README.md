@@ -47,6 +47,15 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年02月26日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200226.md)
+    - 截止2020年02月26日22:01，全国确诊 78196 例，疑似 2491 例，死亡 2718 例，治愈 30077 例
+    - 国际奥委会委员：受疫情影响 东京奥运会或面临取消
+    - 北京地铁列车出库前5次消毒，42块滤网守护进风通道
+    - 北京市商务局关于进一步做好防止超市人员聚集工作的紧急通知
+    - 韩国确诊新冠病例破千 政府建议民众暂停聚集性活动
+    - 湖北以外新增死亡病例为0
+    - 上报确诊病例为负数 湖北荆门市委书记市长被予以诫勉
+
 - [2020年02月25日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200225.md)
     - 截止2020年02月25日21:35，全国确诊 77785 例，疑似 2824 例，死亡 2666 例，治愈 27650 例
     - 运动能力超强！意大利“1号病人”影响超5万人
