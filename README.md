@@ -20,7 +20,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 - [实时播报(3)](https://news.qq.com/zt2020/page/feiyan.htm#charts) -- 腾讯新闻提供
 - [实时播报(4)](http://news.163.com/special/epidemic/#map_block) -- 网易新闻提供
 - [实时播报(5)](https://alihealth.taobao.com/medicalhealth/influenzamap?anchor=info&spm=a2oua.alipayad.wuhan.wenzhen&chInfo=ch_lanmu) -- 阿里健康提供
-
+- [实时播报(6)](https://voice.baidu.com/act/newpneumonia/newpneumonia/?from=osari_pc_3) -- 百度提供
 
 # 医疗信息
 
@@ -46,6 +46,14 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+
+- [2020年02月27日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200227.md)
+    - 截止2020年02月27日21:41，全国确诊 78631 例，疑似 2358 例，死亡 2747 例，治愈 32982 例
+    - 新华社：女子武汉来京确诊，有必要说清楚她是怎么离汉的
+    - 韩国新增334例新冠肺炎病例 累计确诊数已超越广东
+    - 钟南山预测：疫情四月底基本控制，发源地不一定在中国
+    - 中国使馆紧急捐赠韩国大邱2.5万个口罩，配诗“道不远人、人无异国”
+    - 48小时内又有多国确诊首例新冠肺炎病例，目前仅南极洲无病例
 
 - [2020年02月26日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200226.md)
     - 截止2020年02月26日22:01，全国确诊 78196 例，疑似 2491 例，死亡 2718 例，治愈 30077 例
