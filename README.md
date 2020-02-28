@@ -47,6 +47,15 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年02月28日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200228.md)
+    - 截止2020年02月28日22:09，全国确诊 78962 例，疑似 2308 例，死亡 2791 例，治愈 36474 例
+    - 中央明确:开学开园时间原则上继续推迟
+    - 【抗疫一线报告】全球疫情处于关键时刻 世卫组织：现在中国以外地区才是最大担忧
+    - 第一例新冠肺炎逝者尸解报告出炉
+    - 国家卫健委梁万年：武汉疫情快速流行上升趋势得到遏制
+    - 疫情期北京市居住证、北京市居住登记卡有效期延长
+    - 批准了！北京大兴国际机场卫星厅复工
+
 - [2020年02月27日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200227.md)
     - 截止2020年02月27日21:41，全国确诊 78631 例，疑似 2358 例，死亡 2747 例，治愈 32982 例
     - 新华社：女子武汉来京确诊，有必要说清楚她是怎么离汉的
