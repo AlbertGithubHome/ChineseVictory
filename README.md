@@ -47,6 +47,15 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年02月29日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200229.md)
+    - 截止2020年02月29日21:30，全国确诊 79394 例，疑似 1418 例，死亡 2838 例，治愈 39329 例
+    - 刚履职2天的周口副市长因公殉职，终年45岁
+    - 日本京都宣布不听安倍要求，3月继续上课
+    - 北京儿童医院：确诊患儿1例，疑似患儿26例
+    - 国务院：进一步指导各地落实分区分级差异化防控策略
+    - 25例新冠肺炎死亡患者临床分析：因肺部黏液过多窒息而亡
+    - 首次！湖北出疫情风险等级评估报告
+
 - [2020年02月28日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200228.md)
     - 截止2020年02月28日22:09，全国确诊 78962 例，疑似 2308 例，死亡 2791 例，治愈 36474 例
     - 中央明确:开学开园时间原则上继续推迟
