@@ -47,7 +47,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
-- [2020年02月29日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200229.md)
+- [2020年02月29日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/02/20200229.md)
     - 截止2020年02月29日21:30，全国确诊 79394 例，疑似 1418 例，死亡 2838 例，治愈 39329 例
     - 刚履职2天的周口副市长因公殉职，终年45岁
     - 日本京都宣布不听安倍要求，3月继续上课
@@ -56,7 +56,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - 25例新冠肺炎死亡患者临床分析：因肺部黏液过多窒息而亡
     - 首次！湖北出疫情风险等级评估报告
 
-- [2020年02月28日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200228.md)
+- [2020年02月28日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/02/20200228.md)
     - 截止2020年02月28日22:09，全国确诊 78962 例，疑似 2308 例，死亡 2791 例，治愈 36474 例
     - 中央明确:开学开园时间原则上继续推迟
     - 【抗疫一线报告】全球疫情处于关键时刻 世卫组织：现在中国以外地区才是最大担忧
@@ -65,7 +65,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - 疫情期北京市居住证、北京市居住登记卡有效期延长
     - 批准了！北京大兴国际机场卫星厅复工
 
-- [2020年02月27日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200227.md)
+- [2020年02月27日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/02/20200227.md)
     - 截止2020年02月27日21:41，全国确诊 78631 例，疑似 2358 例，死亡 2747 例，治愈 32982 例
     - 新华社：女子武汉来京确诊，有必要说清楚她是怎么离汉的
     - 韩国新增334例新冠肺炎病例 累计确诊数已超越广东
@@ -73,7 +73,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - 中国使馆紧急捐赠韩国大邱2.5万个口罩，配诗“道不远人、人无异国”
     - 48小时内又有多国确诊首例新冠肺炎病例，目前仅南极洲无病例
 
-- [2020年02月26日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200226.md)
+- [2020年02月26日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/02/20200226.md)
     - 截止2020年02月26日22:01，全国确诊 78196 例，疑似 2491 例，死亡 2718 例，治愈 30077 例
     - 国际奥委会委员：受疫情影响 东京奥运会或面临取消
     - 北京地铁列车出库前5次消毒，42块滤网守护进风通道
@@ -82,7 +82,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - 湖北以外新增死亡病例为0
     - 上报确诊病例为负数 湖北荆门市委书记市长被予以诫勉
 
-- [2020年02月25日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200225.md)
+- [2020年02月25日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/02/20200225.md)
     - 截止2020年02月25日21:35，全国确诊 77785 例，疑似 2824 例，死亡 2666 例，治愈 27650 例
     - 运动能力超强！意大利“1号病人”影响超5万人
     - 湖北监狱323名罪犯确诊患新冠肺炎 超20人获处分
@@ -91,7 +91,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - 广州13例患者出院后复阳 专家：是否具传染性不能确定
     - 湖北、北京以外地区依据疫情风险分为三类，低风险不代表没风险
 
-- [2020年02月24日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200224.md)
+- [2020年02月24日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/02/20200224.md)
     - 截止2020年02月24日22:01，全国确诊 77269 例，疑似 3434 例，死亡 2596 例，治愈 25052 例
     - 武汉发布通告 滞留在汉外地人员可有条件出城
     - 恢复开放4天游客爆满，江西萍乡武功山景区紧急限流
@@ -100,7 +100,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - 武汉市：“部分人员可以出城”通告无效
     - 教育部：原则上疫情得到有效控制前高校不开学
 
-- [2020年02月23日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200223.md)
+- [2020年02月23日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/02/20200223.md)
     - 截止2020年02月23日21:51，全国确诊 77048 例，疑似 4148 例，死亡 2445 例，治愈 23180 例
     - 全国多地现人群扎堆，央视：疫情拐点尚未到来，这个苗头必须打住！
     - 中国首款可重复使用口罩上市 过滤达N95级可使用20次！
@@ -108,7 +108,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - 钟南山：黑龙江地处高寒，相对病亡率增加的情况是存在的
     - 确诊602例！韩国将疫情预警上调至最高级别
 
-- [2020年2月22日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200222.md)
+- [2020年2月22日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/02/20200222.md)
     - 截止2020年2月22日21:04，全国确诊 76396 例，疑似 5365 例，死亡 2348 例，治愈 21070 例
     - 国家卫健委：核酸检验阴性不能排除新冠病毒感染
     - 好消息！全国连续10天治愈出院超千人
@@ -117,7 +117,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - 青武汉：40家机构同时开工 实现核酸检测存量清零
     - 浙江：第一批疫苗已产生抗体，进入动物实验阶段
 
-- [2020年2月21日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200221.md)
+- [2020年2月21日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/02/20200221.md)
     - 截止2020年2月21日22:00，全国确诊 75571 例，疑似 5206 例，死亡 2239 例，治愈 18744 例
     - 归零！全国14地新增病例为0
     - 青海，清零！18例确诊病例全部治愈出院
@@ -125,7 +125,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - 七类返京人群免除隔离14天：包括北三县等地来京工作人员
     - 人社部：企业员工感染新冠肺炎不能认定工伤
 
-- [2020年2月20日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200220.md)
+- [2020年2月20日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/02/20200220.md)
     - 截止2020年2月20日21:22，全国确诊 74648 例，疑似 4922 例，死亡 2122 例，治愈 16712 例
     - 王辰院士：新冠病毒有可能像流感一样长期存在
     - 华山医院张文宏新冠病毒诊断研究：仅胸部CT无法准确诊断
@@ -133,7 +133,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - 病毒能通过衣物传染人吗？会在头发上滞留吗？疾控中心专家回应
     - 特殊案例！男子痰咽检测阴性粪便为阳性 无临床表现
 
-- [2020年2月19日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200219.md)
+- [2020年2月19日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/02/20200219.md)
     - 截止2020年2月19日22:11，全国确诊 74284 例，疑似 5248 例，死亡 2009 例，治愈 14938 例
     - 火神山医院工人不要工钱坚决不领工资? 承建方回应
     - 消毒剂使用指南：不宜对室外环境开展大规模消毒
@@ -141,7 +141,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - 河北已有8市部分公交线路恢复运营
     - 中央赴湖北指导组：坚持重症轻症并重，千方百计救治患者
 
-- [2020年2月18日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200218.md)
+- [2020年2月18日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/02/20200218.md)
     - 截止2020年2月18日22:02，全国确诊 72532 例，疑似 6242 例，死亡 1872 例，治愈 12999
     - 2月份以来 全国日新增确诊病例首次跌破两千
     - 广东已筛选54个上市中成药体外试验
@@ -149,7 +149,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - 国务院决定：阶段性减免企业社保费、缓缴住房公积金
     - 湖北鄂州市卫健委主任被提名免职
 
-- [2020年2月17日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200217.md)
+- [2020年2月17日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/02/20200217.md)
     - 截止2020年2月17日08:35，全国确诊 70597 例，疑似 8228 例，死亡 1770 例，治愈 10784 例
     - 批新冠肺炎逝者遗体解剖完成 病理报告或需10日
     - 满载率三成以下 北京地铁今晨未现早高峰
@@ -160,7 +160,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - 湖北寄往北京的邮件全部喷淋消毒
     - 中疾控报告:超3千名医护感染新冠病毒 确诊1716例
 
-- [2020年2月16日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200216.md)
+- [2020年2月16日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/02/20200216.md)
     - 截止2020年2月16日09:56，全国确诊 68584 例，疑似 8228 例，死亡 1666 例，治愈 9434 例
     - 武汉病毒所一研究生系零号病人？石正丽：无一人感染
     - 十连降！多地通报无新增确诊病例
@@ -170,7 +170,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - 突破！全国第一例、第二例由遗体解剖获得的新冠肺炎病理今日被送检
     - 2月17日零时至疫情防控结束，北京所有高速免费通行
 
-- [2020年2月15日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200215.md)
+- [2020年2月15日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/02/20200215.md)
     - 截止2020年2月15日08:25，全国确诊 66576 例，疑似 8969 例，死亡 1524 例，治愈 8101 例
     - 证监会：“绿色通道”支持疫情严重地区企业发行公司债
     - 央行：已向全国调拨6000亿元新钞
@@ -180,7 +180,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - 新冠药物和疫苗进展如何？科学家来答疑了（一批药物已经初步显示出良好的临床疗效）
     - 部分疫苗开始动物试验 聚焦新冠肺炎疫苗研发进展
 
-- [2020年2月14日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200214.md)
+- [2020年2月14日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/02/20200214.md)
     - 截止2020年2月14日11:32，全国确诊 63932 例，疑似 10109 例，死亡 1381 例，治愈 6794 例
     - 最高检依法对河北省原副省长李谦决定逮捕
     - 多地明确延迟开学时间可用暑期补齐
@@ -189,7 +189,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - 国家发改委：80万只医用N95级口罩运至武汉
     - 即日起返京人员到京后 均应居家或集中观察14天
 
-- [2020年2月13日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200213.md)
+- [2020年2月13日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/02/20200213.md)
     - 截止2020年2月13日10:20，全国确诊 59882 例，疑似 16067 例，死亡 1368 例，治愈 5928 例
     - “政法老兵”到位!上海市市长应勇任湖北省委书记
     - 中央决定：王忠林任武汉市委书记，马国强不再担任
@@ -197,7 +197,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - 湖北130万只民用口罩投向市场 进价1元零售2元
     - 金银潭医院院长：患者康复后体内含抗体 恳请康复患者捐赠血浆
 
-- [2020年2月12日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200212.md)
+- [2020年2月12日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/02/20200212.md)
     - 截止2020年2月12日09:36，全国确诊 44726 例，疑似 21675 例，死亡 1114 例，治愈 4732 例
     - 避险资产全线回落 钟南山：疫情或于4月前结束
     - 黄奇帆建议取消住房公积金制度 孙建波：缺乏常识
@@ -206,7 +206,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - 国务院常务会议：高度关注就业问题 防止大规模裁员
     - 中央指导组约谈后，武昌区政府对未及时安置重症病人逐一道歉
 
-- [2020年2月11日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200211.md)
+- [2020年2月11日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/02/20200211.md)
     - 截止2020年2月11日09:35，全国确诊 42708 例，疑似 21675 例，死亡 1017 例，治愈 3998 例
     - 紧急扩散！一高铁保洁员确诊，曾搭乘20趟高铁！
     - 北京：非生活必需的娱乐室等公共场所一律关闭
@@ -214,7 +214,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - 新冠肺炎疫情期间税收优惠政策有哪些？
     - 钟南山：疫情峰值应在2月中下旬 拐点未能预测
 
-- [2020年2月10日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200210.md)
+- [2020年2月10日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/02/20200210.md)
     - 截止2020年2月10日08:02，全国确诊 40235 例，疑似 23589 例，死亡 909 例，治愈 3283 例
     - 浙江一人违反居家隔离规定妨碍公务被判九个月
     - 企业微信：今早服务器请求上涨超10倍
@@ -223,7 +223,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - 2019年全国财政收入超过19万亿 同比增长3.8%
     - 武汉市委书记：目标是明天完成全部疑似患者检测清零
 
-- [2020年2月9日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200209.md)
+- [2020年2月9日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/02/20200209.md)
     - 截止2020年2月9日09:31，全国确诊 37251 例，疑似 28942 例，死亡 812 例，治愈 2652 例
     - 中央指导组专家:新冠肺炎愈后一般6个月内不会再得
     - 湖北以外地区新增病例连降5天
@@ -231,7 +231,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - 中国疾控中心：气溶胶传播尚未明确
     - 多地规定：公职人员不得戴N95医用口罩
 
-- [2020年2月8日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200208.md)
+- [2020年2月8日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/02/20200208.md)
     - 截止2020年2月8日09:31，全国确诊 34598 例，疑似 27657 例，死亡 723 例，治愈 2054 例
     - 四部门:依法严惩疫情期间七类涉医违法犯罪
     - 定了 “新冠肺炎”英文简称“NCP
@@ -240,7 +240,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - 武汉雷神山医院迎来首批医疗队员 医院只设住院不设门诊
     - 湖北：防护服有缺口护目镜不能生产 迫切需要支持
 
-- [2020年2月7日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200207.md)
+- [2020年2月7日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/02/20200207.md)
     - 截止2020年2月7日08:12，全国确诊 31211 例，疑似 26359 例，死亡 637 例，治愈 1542 例
     - 湖北省副省长：现阶段湖北医护人员仍然紧缺
     - 北京：对疫情高发区计划返京人员提前告知暂不返京
@@ -250,14 +250,14 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - 疫情期间，部分银行定期存款到期可自动延期，按原利率计息至3月31日
     - 湖北：实行村组封闭管理 村与村之间留一条应急通道
 
-- [2020年2月6日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200206.md)
+- [2020年2月6日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/02/20200206.md)
     - 截止2020年2月6日08:09，全国确诊 28260 例，疑似 24902 例，死亡 564 例，治愈 1153 例
     - 全国新冠肺炎累计治愈出院病例破千
     - 江西赣州一老板提前复工 被拘留七日
     - 郑州: 有关工业企业和服务业企业等复工时间
     - 宁波实名买退烧药，出门买药记得拿身份证！
 
-- [2020年2月5日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200205.md)
+- [2020年2月5日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/02/20200205.md)
     - 截止2020年2月5日09:23，全国确诊 24363 例，疑似 23260 例，死亡 491 例，治愈 872 例
     - 雷神山医院具备交付条件 “可移动大号N95口罩”上汽负压救护车火线入列
     - 国家卫健委：出院标准一直全国适用，公布全国统一出院标准
@@ -265,7 +265,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - 出生30小时婴儿确诊新冠肺炎 专家：可能存在母婴垂直感染
     - 中国发布｜北京禁止各类群体性聚餐活动
 
-- [2020年2月4日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200204.md)
+- [2020年2月4日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/02/20200204.md)
     - 截止2020年2月4日08:02，全国确诊 20471 例，疑似 23214 例，死亡 425 例，治愈 642 例
     - 火神山医院正式接诊 央企9天跑出“中国速度”
     - 84消毒液能杀死新冠病毒吗？你想知道的都在这里
@@ -274,7 +274,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - 湖北省红十字会专职副会长失职失责被免职
     - 李兰娟院士发布重大成果：这两种药能抑制新型冠状病毒！
 
-- [2020年2月3日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200203.md)
+- [2020年2月3日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/02/20200203.md)
     - 截止2020年2月3日08:41，全国确诊 17238 例，疑似 21558 例，死亡 361 例，治愈 475 例
     - 李兰娟：武汉检测试剂不够 不是每个人能得到检测
     - 李彦宏全员信透露：百度AI算法已将病毒RNA分析时间从55分钟缩短到27秒
@@ -282,13 +282,13 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - 成都5.1级地震未造成人员伤亡 四川终止三级响应
     - 直面地震+疫情：来看成都群众的阳光段子
 
-- [2020年2月2日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200202.md)
+- [2020年2月2日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/02/20200202.md)
     - 截止2020年2月2日08:03，全国确诊14411例，疑似19544例，死亡304例，治愈328例
     - 新华社：湖北公安机关启动战时奖励机制
     - 武汉火神山医院正式移交给军队医务工作者
     - 患者粪便检出新型冠状病毒！国家卫健委回应
 
-- [2020年2月1日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200201.md)
+- [2020年2月1日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/02/20200201.md)
     - 截止2020年2月1日08:21，全国确诊11821例，疑似17988例，死亡259例，治愈243例
     - 别抢双黄连了！抑制并不等于预防和治疗！
     - 家属被隔离脑瘫儿无人照顾死亡 当地书记镇长被免
@@ -297,7 +297,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - 湖北黄冈：即日起实行市区人口出行管控措施
     - 公众连夜排队抢购 院士告诉你：双黄连对新型冠状病毒不具针对性！
 
-- [2020年1月31日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200131.md)
+- [2020年1月31日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/01/20200131.md)
     - 截止2020年1月31日08:17，全国确诊9720例，疑似15238例，死亡213例，治愈171例
     - WHO宣布新冠疫情为国际关注的突发公共卫生事件
     - 湖北红会回应“口罩失误”慈善机构是桥还是墙？
@@ -307,27 +307,27 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
     - 北京今年前两月的社保征收延长至3月底
     - 武汉市金银潭医院20名新型冠状病毒肺炎患者集体出院
 
-- [2020年1月30日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200130.md)
+- [2020年1月30日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/01/20200130.md)
     - 截止2020年1月30日08:11，全国确诊7736例，疑似12167例，死亡170例，治愈124例
     - 西藏出现首例确诊病例（之前只有西藏还未发现病例）
     - 切勿随意抛弃猫狗等宠物！世卫组织提醒：没有证据显示猫狗等宠物会感染新型冠状病毒
     - 感染新冠肺炎已治愈，北大一院呼吸科主任王广发今出院
     - 面对督查组“一问三不知” 湖北黄冈卫健委主任唐志红被免职
 
-- [2020年1月29日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200129.md)
+- [2020年1月29日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/01/20200129.md)
     - 截止2020年1月29日09:18，全国确诊5974例，疑似9239例，死亡132例，治愈106例
     - 国家卫健委发布会回应500万人离开武汉：我们共同的敌人是疾病，不是武汉人
     - 配合疫情防控 铁路部门延长退票时限至3月25日
     - 抗击疫情·睿思这么看：钟南山不说动，我绝不动！
     - 人民锐评：单日新增确诊病例下降，但现在还不是盲目乐观的时候。防控疫情，不到大获全胜的最后一刻，决不可收兵，决不可轻言放松。（人民日报）
 
-- [2020年1月28日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200128.md)
+- [2020年1月28日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/01/20200128.md)
     - 截止2020年1月28日11:01，全国确诊4529例，疑似6973例，死亡106例，治愈60例
     - 国家卫健委通报新冠肺炎患者治愈出院标准
     - 流行病学专家曾光：新型冠状病毒比SARS狡猾
     - 公安部部长赵克志：严厉打击利用疫情哄抬物价、囤积居奇
 
-- [2020年1月27日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/20200127.md)
+- [2020年1月27日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/01/20200127.md)
     - 深夜重磅！国务院发通知，春节假期延至2月2日
     - 李克强总理来到武汉：希望武汉老百姓平安健康长寿
     - 上海发布：企业不早于2月9号24时复工，各类学校2月17日前不开学
