@@ -23,7 +23,7 @@ def create_new_file(file_name):
     new_file_name = file_name[:8]
     print(new_file_name)
 
-    file_path = './MajorNews/'+new_file_name+'.md'
+    file_path = './MajorNews/'+file_name[4:6]+'/'+new_file_name+'.md'
     print(file_path)
     with open(file_path, 'w', encoding='UTF-8') as new_file:
         #new_file.write('\n')

@@ -17,7 +17,7 @@ TARGET_LINE = 50
 
 def update_readme_file(file_name):
     news_list = []
-    new_file_name = './MajorNews/'+file_name[:8]+'.md'
+    new_file_name = './MajorNews/'+file_name[4:6]+'/'+file_name[:8]+'.md'
     with open(new_file_name,'r',encoding='UTF-8') as file:
         line_list = file.read().splitlines()
         result_list = ['    - '+x.split('  ')[1] for x in line_list]
