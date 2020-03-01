@@ -48,7 +48,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 - [2020年03月01日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200301.md)
-    - 截止2020年03月01日19:51，全国确诊 xxxxx 例，疑似 xxxx 例，死亡 xxxx 例，治愈 xxxxx 例
+    - 截止2020年03月01日19:51，全国确诊 79972 例，疑似 851 例，死亡 2873 例，治愈 42150 例
     - 京津冀三地将制定统一的健康电子码
     - 优信二手车：经营遇到困难 部分员工3月1日起停工待岗
     - 全球首例新冠肺炎病人肺移植手术成功
