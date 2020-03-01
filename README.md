@@ -47,6 +47,14 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年03月01日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200301.md)
+    - 截止2020年03月01日19:51，全国确诊 xxxxx 例，疑似 xxxx 例，死亡 xxxx 例，治愈 xxxxx 例
+    - 京津冀三地将制定统一的健康电子码
+    - 优信二手车：经营遇到困难 部分员工3月1日起停工待岗
+    - 全球首例新冠肺炎病人肺移植手术成功
+    - 国务院联防联控机制：全国治愈出院比例达到52.1%
+    - 武汉现有806名监所在押人员感染新冠肺炎
+
 - [2020年02月29日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/02/20200229.md)
     - 截止2020年02月29日21:30，全国确诊 79394 例，疑似 1418 例，死亡 2838 例，治愈 39329 例
     - 刚履职2天的周口副市长因公殉职，终年45岁
