@@ -47,6 +47,13 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年03月02日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200302.md)
+    - 截止2020年03月02日22:01，全国确诊 80175 例，疑似 715 例，死亡 2915 例，治愈 44855 例
+    - 每天1亿只！中国口罩日产能、产量双双获突破 口罩股跟着沾光
+    - 又有160多人集体出舱！武汉多家方舱医院空床超50%
+    - 人复工后突发高热、呼吸困难！医生：基本排除肺炎，但罪魁祸首竟是单位里的“消毒水”
+    - 全球除中国外已现9000余例新冠肺炎病例
+
 - [2020年03月01日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200301.md)
     - 截止2020年03月01日19:51，全国确诊 79972 例，疑似 851 例，死亡 2873 例，治愈 42150 例
     - 京津冀三地将制定统一的健康电子码
