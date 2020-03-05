@@ -47,6 +47,13 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年03月05日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200305.md)
+    - 截止2020年03月05日22:09，全国确诊 80570 例，疑似 522 例，死亡 3016 例，治愈 52311 例
+    - 全球首例！香港确诊狗感染病毒
+    - 研究表明新冠病毒能在康复者体内存留数周 但传染力变弱
+    - 华为为在湖北深入抗疫一线应急通信保障人员每天补助2000元
+    - 张伯礼：到3月底，武汉有望新增病例基本“清零”
+
 - [2020年03月04日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200304.md)
     - 截止2020年03月04日22:01，全国确诊 80424 例，疑似 520 例，死亡 2984 例，治愈 50058 例
     - 新研究称8.72℃最适合新冠病毒传播 病毒学专家：样本量不足
