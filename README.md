@@ -47,6 +47,13 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年03月06日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200306.md)
+    - 截止2020年03月06日22:03，全国确诊 80718 例，疑似 482 例，死亡 3045 例，治愈 53964 例
+    - 韩国买口罩实行单双号限购
+    - 新冠肺炎每年都会来？钟南山团队专家：理论上有可能
+    - 伊朗新冠肺炎确诊病例增至4747例
+    - 受新冠肺炎疫情影响 首个房企债务违约案例出现
+
 - [2020年03月05日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200305.md)
     - 截止2020年03月05日22:09，全国确诊 80570 例，疑似 522 例，死亡 3016 例，治愈 52311 例
     - 全球首例！香港确诊狗感染病毒
