@@ -47,6 +47,15 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年03月07日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200307.md)
+    - 截止2020年03月07日22:01，全国确诊 80814 例，疑似 502 例，死亡 3073 例，治愈 55597 例
+    - 尚无证据显示新冠病毒会在夏季自行消失
+    - 情升级，意大利专家紧急向中国专家求助！同济医院专家分享新冠肺炎救治“中国经验”
+    - 武汉103岁婆婆确诊新冠肺炎 6天奇迹恢复
+    - 国家卫健委：部分新冠疫苗有望4月进入临床或应急使用
+    - 北京输入病例登机前用药退烧被立案
+    - 湖北医生一月接诊3506人次猝死家中 行政复议后被认定工伤
+
 - [2020年03月06日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200306.md)
     - 截止2020年03月06日22:03，全国确诊 80718 例，疑似 482 例，死亡 3045 例，治愈 53964 例
     - 韩国买口罩实行单双号限购
