@@ -26,7 +26,7 @@ def update_readme_file(file_name):
         #with open('tmp.md','w',encoding='UTF-8') as outfile:
             #outfile.write('- [{0}主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/{1}.md)\n'.format(file_name[:4]+'年'+file_name[4:6]+'月'+file_name[6:8]+'日', file_name[:8]))
             #outfile.write('\n'.join(result_list))
-        news_list.append('- [{0}主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/{1}.md)'.format(file_name[:4]+'年'+file_name[4:6]+'月'+file_name[6:8]+'日', file_name[:8]))
+        news_list.append('- [{0}主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/{1}/{2}.md)'.format(file_name[:4]+'年'+file_name[4:6]+'月'+file_name[6:8]+'日', file_name[4:6], file_name[:8]))
         news_list.extend(result_list)
         news_list.append('')
         #print(news_list)
