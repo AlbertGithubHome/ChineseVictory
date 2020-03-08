@@ -47,6 +47,13 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年03月08日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200308.md)
+    - 截止2020年03月08日20:01，全国确诊 80864 例，疑似 458 例，死亡 3100 例，治愈 57404 例
+    - 国家卫健委调派18人医疗组 开展泉州坍塌事故救治
+    - “钻石公主”号两名确诊香港乘客在日本去世，仍然有29人在日治疗
+    - 重磅！上海研发新冠人源细胞疫苗，科学家已亲试第一针
+    - 国家卫健委回应“院长补贴高”：进一步明确一线人员范围
+
 - [2020年03月07日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200307.md)
     - 截止2020年03月07日22:01，全国确诊 80814 例，疑似 502 例，死亡 3073 例，治愈 55597 例
     - 尚无证据显示新冠病毒会在夏季自行消失
