@@ -47,6 +47,13 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年03月09日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200309.md)
+    - 截止2020年03月09日21:39，全国确诊 80905 例，疑似 421 例，死亡 3124 例，治愈 57404 例
+    - 意大利新冠肺炎死亡率已达4.96%
+    - 全国累计治愈出院人数超3万
+    - 新冠肺炎疫情不改中国经济稳定发展预期
+    - 浙江70岁新冠肺炎患者接受肺移植 目前生命体征平稳
+
 - [2020年03月08日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200308.md)
     - 截止2020年03月08日20:01，全国确诊 80864 例，疑似 458 例，死亡 3100 例，治愈 57404 例
     - 国家卫健委调派18人医疗组 开展泉州坍塌事故救治
