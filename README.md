@@ -47,6 +47,13 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年03月10日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200310.md)
+    - 截止2020年03月10日21:30，全国确诊 80932 例，疑似 349 例，死亡 3140 例，治愈 60197 例
+    - 世卫组织：尽早果断行动！这将是 “历史上第一次可以控制的大流行”
+    - 定了！北京集中供热延长至3月22日24时
+    - 湖北中、低风险地区持绿码人员，全省通行！
+    - 潜江，将成湖北首个恢复秩序的城市
+
 - [2020年03月09日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200309.md)
     - 截止2020年03月09日21:39，全国确诊 80905 例，疑似 421 例，死亡 3124 例，治愈 57404 例
     - 意大利新冠肺炎死亡率已达4.96%
