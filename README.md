@@ -47,6 +47,13 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年03月11日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200311.md)
+    - 截止2020年03月11日21:55，全国确诊 80969 例，疑似 285 例，死亡 3162 例，治愈 61698 例
+    - 综合消息：新冠疫情在拉美蔓延 多国进一步加强防控
+    - 一天入境23646人，“防境外输入”这道题怎么解？
+    - 李兰娟院士：或许武汉在三月底就能“清零”
+    - 全球战疫：应对新冠肺炎疫情的“菲律宾模式”
+
 - [2020年03月10日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200310.md)
     - 截止2020年03月10日21:30，全国确诊 80932 例，疑似 349 例，死亡 3140 例，治愈 60197 例
     - 世卫组织：尽早果断行动！这将是 “历史上第一次可以控制的大流行”
