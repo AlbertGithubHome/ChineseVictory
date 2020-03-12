@@ -47,6 +47,13 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年03月12日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200312.md)
+    - 截止2020年03月12日21:20，全国确诊 80982 例，疑似 253 例，死亡 3173 例，治愈 62928 例
+    - 武汉垃圾车运猪肉？！副区长被立案审查，已售猪肉将上门回收集中销毁
+    - 西班牙政府官员全体接受新冠肺炎检测
+    - 钟南山：6月结束疫情可以期待，但也要取决于各个国家的重视程度
+    - 钟南山：不从全球范围内控制好不可能战胜疫情
+
 - [2020年03月11日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200311.md)
     - 截止2020年03月11日21:55，全国确诊 80969 例，疑似 285 例，死亡 3162 例，治愈 61698 例
     - 综合消息：新冠疫情在拉美蔓延 多国进一步加强防控
