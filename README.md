@@ -47,6 +47,17 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年03月13日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200313.md)
+    - 截止2020年03月13日21:31，全国确诊 xxxxx 例，疑似 xxxx 例，死亡 xxxx 例，治愈 xxxxx 例
+    - 纽约市长宣布进入紧急状态：短短几小时就像世界翻天覆地
+    - 两大臣感染、确诊破3000……西班牙首相呼吁学习中国
+    - 6省份清零8省份将清零，国内疫情流行高峰已过，谨防“倒灌”
+    - 加拿大总理夫人确诊新冠，此前出席万人活动
+    - 法国卫生部长：法国所有学校将至少关闭15天
+    - 调查：疫情之后游客最想去的国内城市，三亚、重庆、成都位列前三
+    - 受疫情影响 希腊奥委会暂停奥运圣火在希腊境内传递
+    - 巴西总统确诊
+
 - [2020年03月12日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200312.md)
     - 截止2020年03月12日21:20，全国确诊 80982 例，疑似 253 例，死亡 3173 例，治愈 62928 例
     - 武汉垃圾车运猪肉？！副区长被立案审查，已售猪肉将上门回收集中销毁
