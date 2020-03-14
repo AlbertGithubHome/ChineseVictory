@@ -47,6 +47,14 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年03月14日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200314.md)
+    - 截止2020年03月14日21:47，全国确诊 81032 例，疑似 115 例，死亡 3194 例，治愈 65681 例
+    - 巴西总统称新冠肺炎检测呈阴性
+    - 湖北疾控中心：全省除武汉外连续9天无新增新冠肺炎确诊病例
+    - 特朗普总统宣布进入紧急状态 美国股市暴力反弹
+    - 西班牙政府宣布将封锁全国
+    - 意大利卫生部副部长新冠病毒检测呈阳性
+
 - [2020年03月13日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200313.md)
     - 截止2020年03月13日21:31，全国确诊 xxxxx 例，疑似 xxxx 例，死亡 xxxx 例，治愈 xxxxx 例
     - 纽约市长宣布进入紧急状态：短短几小时就像世界翻天覆地
