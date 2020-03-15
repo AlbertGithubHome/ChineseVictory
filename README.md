@@ -47,6 +47,14 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年03月15日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200315.md)
+    - 截止2020年03月15日21:01，全国确诊 81061 例，疑似 113 例，死亡 3204 例，治愈 67041 例
+    - 美媒：美国正考虑对国内疫情严重地区实施旅行限制
+    - 一个德国海德堡的小伙子，通过贩卖口罩，24小时已实现财务自由
+    - “清零”！天津最后一例确诊患者治愈出院
+    - 瑞士新冠肺炎确诊病例截至目前已超2200例，单日激增超800例
+    - 西班牙一日增长2000例新冠肺炎 累计确诊病例增至7753例
+
 - [2020年03月14日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200314.md)
     - 截止2020年03月14日21:47，全国确诊 81032 例，疑似 115 例，死亡 3194 例，治愈 65681 例
     - 巴西总统称新冠肺炎检测呈阴性
