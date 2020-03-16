@@ -47,6 +47,15 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年03月16日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200316.md)
+    - 截止2020年03月16日21:30，全国确诊 81099 例，疑似 134 例，死亡 3204 例，治愈 67930 例
+    - 全球每日新增上万病例 多国疫情扩散威胁中国
+    - 全国现有确诊病例已降至1万以内 重症病例数量持续减少
+    - 上海市科委：新冠疫苗预计4月中旬临床试验
+    - 西班牙新冠肺炎确诊数超韩国 成全球第4多国家
+    - 美股16日大幅低开 触发本月第三次熔断
+    - 北京复工复产10条：快递、外卖可进社区无接触配送
+
 - [2020年03月15日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200315.md)
     - 截止2020年03月15日21:01，全国确诊 81061 例，疑似 113 例，死亡 3204 例，治愈 67041 例
     - 美媒：美国正考虑对国内疫情严重地区实施旅行限制
