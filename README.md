@@ -47,6 +47,13 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年03月17日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200317.md)
+    - 截止2020年03月17日22:01，全国确诊 81134 例，疑似 128 例，死亡 3231 例，治愈 68826 例
+    - 一张包机票被炒到百万，买票难转机需40小时
+    - 最新数据：中国以外新冠肺炎超10万例
+    - 重磅！军队成功研制重组新冠疫苗
+    - 武汉金银潭医院1775名新冠患者研究：O型血相对不易感
+
 - [2020年03月16日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200316.md)
     - 截止2020年03月16日21:30，全国确诊 81099 例，疑似 134 例，死亡 3204 例，治愈 67930 例
     - 全球每日新增上万病例 多国疫情扩散威胁中国
