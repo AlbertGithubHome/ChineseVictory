@@ -47,6 +47,13 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年03月18日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200318.md)
+    - 截止2020年03月18日22:01，全国确诊 81203 例，疑似 119 例，死亡 3242 例，治愈 69799 例
+    - 亚马逊部分员工要求公司支付1.5倍危险津贴
+    - 限制口罩出口的台湾当局 宣布每周供美国10万口罩
+    - 欧洲新冠肺炎死亡人数现超过亚洲
+    - 德国确诊病例增至10082例 成全球第5个确诊人数破万国家
+
 - [2020年03月17日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200317.md)
     - 截止2020年03月17日22:01，全国确诊 81134 例，疑似 128 例，死亡 3231 例，治愈 68826 例
     - 一张包机票被炒到百万，买票难转机需40小时
