@@ -47,6 +47,13 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年03月19日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200319.md)
+    - 截止2020年03月19日22:00，全国确诊 81263 例，疑似 105 例，死亡 3250 例，治愈 70560 例
+    - 巴基斯坦总统说帮中国时没想留后路
+    - 四川本土确诊病例“清零” 仅剩1例境外输入病例
+    - 武汉警方对李文亮被训诫一案责任人作出处理
+    - 外媒：欧盟承认低估新冠病毒威胁
+
 - [2020年03月18日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200318.md)
     - 截止2020年03月18日22:01，全国确诊 81203 例，疑似 119 例，死亡 3242 例，治愈 69799 例
     - 亚马逊部分员工要求公司支付1.5倍危险津贴
