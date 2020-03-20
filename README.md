@@ -47,6 +47,13 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年03月20日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200320.md)
+    - 截止2020年03月20日22:01，全国确诊 81386 例，疑似 104 例，死亡 3255 例，治愈 71341 例
+    - 破最高单日死亡人数记录 意大利新冠肺炎病死率仍在上升
+    - 北京市延长居民集中供热至3月31日
+    - 5家外资金融机构开业仪式上，上海副市长带头摘下了口罩
+    - 迄今为止，中方从未收到来自美国政府的资金和援助
+
 - [2020年03月19日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200319.md)
     - 截止2020年03月19日22:00，全国确诊 81263 例，疑似 105 例，死亡 3250 例，治愈 70560 例
     - 巴基斯坦总统说帮中国时没想留后路
