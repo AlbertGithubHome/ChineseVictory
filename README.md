@@ -47,6 +47,14 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年03月21日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200321.md)
+    - 截止2020年03月21日20:30，全国确诊 81457 例，疑似 106 例，死亡 3261 例，治愈 71885 例
+    - 一文读懂全球疫情：全球新冠肺炎确诊病例超27万 美国暂停所有常规签证业务
+    - 意专家：中国疫情暴发前，病毒或已在意大利传播了
+    - 美媒:洛杉矶县放弃控制新冠病毒,要医生取消对部分患者的检测
+    - 德国累计新冠肺炎确诊病例突破2万，新增2446例
+    - 中国新冠疫苗开始人体注射实验：首批志愿者已注射！
+
 - [2020年03月20日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200320.md)
     - 截止2020年03月20日22:01，全国确诊 81386 例，疑似 104 例，死亡 3255 例，治愈 71341 例
     - 破最高单日死亡人数记录 意大利新冠肺炎病死率仍在上升
