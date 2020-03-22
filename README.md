@@ -47,6 +47,14 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年03月22日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200322.md)
+    - 截止2020年03月22日20:14，全国确诊 81563 例，疑似 118 例，死亡 3267 例，治愈 72389 例
+    - 塞尔维亚总统亲迎中国医疗队
+    - 交通运输部：北京市、湖北省恢复了省市内的道路客运运行
+    - 八达岭长城景区24日起部分恢复开放：参观游览须全程佩戴口罩
+    - 武汉返京男子未隔离未上报致其母感染，警方：已提请批捕
+    - 意大利对中国建议几乎照单全收
+
 - [2020年03月21日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200321.md)
     - 截止2020年03月21日20:30，全国确诊 81457 例，疑似 106 例，死亡 3261 例，治愈 71885 例
     - 一文读懂全球疫情：全球新冠肺炎确诊病例超27万 美国暂停所有常规签证业务
