@@ -47,6 +47,15 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年03月23日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200323.md)
+    - 截止2020年03月23日21:31，全国确诊 81691 例，疑似 136 例，死亡 3276 例，治愈 72849 例，国外确诊 264119 例
+    - 意大利确诊病例逼近6万 死亡5476人
+    - 美主持人含泪喊话各州别指望白宫
+    - 强闯卡点并殴打疫情防控人员致死，山东一男子被立案调查
+    - 中央明确：以武汉为主战场的全国本土疫情传播基本阻断
+    - 西班牙新冠肺炎确诊病例数超3万
+    - 耿爽：美方贼喊捉贼的把戏实在太拙劣
+
 - [2020年03月22日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200322.md)
     - 截止2020年03月22日20:14，全国确诊 81563 例，疑似 118 例，死亡 3267 例，治愈 72389 例
     - 塞尔维亚总统亲迎中国医疗队
