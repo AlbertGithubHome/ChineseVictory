@@ -27,7 +27,7 @@ def create_new_file(file_name):
     print(file_path)
     with open(file_path, 'w', encoding='UTF-8') as new_file:
         #new_file.write('\n')
-        new_file.write('- {0}  截止{1}，全国确诊 xxxxx 例，疑似 xxxx 例，死亡 xxxx 例，治愈 xxxxx 例  [新闻详情>>](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/PneumoniaMap/{2}.jpg)\n'.format(file_time_str, file_time_zh_str, file_name))
+        new_file.write('- {0}  截止{1}，全国确诊 xxxxx 例，疑似 xxxx 例，死亡 xxxx 例，治愈 xxxxx 例，国外确诊 xxxxx 例  [新闻详情>>](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/PneumoniaMap/{2}.jpg)\n'.format(file_time_str, file_time_zh_str, file_name))
         for x in range(9):
             new_file.write('- {0}  xxxxxx  [新闻详情>>](httpsxxxxx)\n'.format(file_time_str, file_name))
 
