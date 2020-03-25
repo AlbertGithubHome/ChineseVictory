@@ -47,6 +47,13 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年03月25日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200325.md)
+    - 截止2020年03月25日22:01，全国确诊 81896 例，疑似 134 例，死亡 3287 例，治愈 73798 例，国外确诊 348168 例
+    - 特朗普声称要全美复工 遭佩洛西狂怼：负责的总统应该注重科学！
+    - 泰国旅游胜地普吉岛实施宵禁
+    - 央视评回国女大闹机场:哪来哪去 不守规定就这待遇
+    - 重庆：全面恢复火锅小面等餐饮门店堂食
+
 - [2020年03月24日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200324.md)
     - 截止2020年03月24日22:02，全国确诊 81807 例，疑似 132 例，死亡 3283 例，治愈 73303 例，国外确诊 309897 例
     - 明天零时起，虹桥机场所有国际、港澳台航班转场至浦东机场运营
