@@ -47,6 +47,13 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年03月26日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200326.md)
+    - 截止2020年03月26日22:31，全国确诊 82034 例，疑似 159 例，死亡 3293 例，治愈 74206 例，国外确诊 403707 例
+    - 目前已有23个省份报告境外输入病例，防控疫情扩散的压力很大
+    - 卫健委：内地无新增本土确诊和疑似病例 做好持久防控准备
+    - 意外长：意大利曾赠中国4万只口罩 中国回赠数百万只
+    - 中国28日起暂停持有效中国签证、居留许可的外国人入境
+
 - [2020年03月25日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200325.md)
     - 截止2020年03月25日22:01，全国确诊 81896 例，疑似 134 例，死亡 3287 例，治愈 73798 例，国外确诊 348168 例
     - 特朗普声称要全美复工 遭佩洛西狂怼：负责的总统应该注重科学！
