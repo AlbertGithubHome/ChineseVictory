@@ -47,6 +47,13 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年03月27日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200327.md)
+    - 截止2020年03月27日22:30，全国确诊 82165 例，疑似 189 例，死亡 3298 例，治愈 74745 例，国外确诊 466063 例
+    - 纽约进入灾难状态！美国感染人数比例已超中国，副总统办公室也“中招” 美股又狂泻
+    - 钟南山回应国内是否会二次暴发疫情
+    - 英国首相鲍里斯-约翰逊新冠病毒检测呈阳性
+    - 李兰娟首次披露武汉封城细节
+
 - [2020年03月26日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200326.md)
     - 截止2020年03月26日22:31，全国确诊 82034 例，疑似 159 例，死亡 3293 例，治愈 74206 例，国外确诊 403707 例
     - 目前已有23个省份报告境外输入病例，防控疫情扩散的压力很大
