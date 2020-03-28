@@ -47,6 +47,14 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年03月28日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200328.md)
+    - 截止2020年03月28日22:00，全国确诊 xxxxx 例，疑似 xxxx 例，死亡 xxxx 例，治愈 xxxxx 例，国外确诊 xxxxx 例
+    - 参考快讯 | 白宫称特朗普祝愿英国首相约翰逊“早日康复”
+    - 除中国外 已有8国确诊病例破万
+    - 张文宏：无症状感染者携带病毒超3周，是接下来重要检测目标
+    - 北京明确：各项防控工作只加强不削弱
+    - 7901万多名党员已捐82.6亿
+
 - [2020年03月27日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200327.md)
     - 截止2020年03月27日22:30，全国确诊 82165 例，疑似 189 例，死亡 3298 例，治愈 74745 例，国外确诊 466063 例
     - 纽约进入灾难状态！美国感染人数比例已超中国，副总统办公室也“中招” 美股又狂泻
