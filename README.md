@@ -48,7 +48,7 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 - [2020年03月28日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200328.md)
-    - 截止2020年03月28日22:00，全国确诊 xxxxx 例，疑似 xxxx 例，死亡 xxxx 例，治愈 xxxxx 例，国外确诊 xxxxx 例
+    - 截止2020年03月28日22:00，全国确诊 82280 例，疑似 184 例，死亡 3301 例，治愈 75142 例，国外确诊 531694 例
     - 参考快讯 | 白宫称特朗普祝愿英国首相约翰逊“早日康复”
     - 除中国外 已有8国确诊病例破万
     - 张文宏：无症状感染者携带病毒超3周，是接下来重要检测目标
