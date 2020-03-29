@@ -47,6 +47,13 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年03月29日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200329.md)
+    - 截止2020年03月29日22:31，全国确诊 82421 例，疑似 174 例，死亡 3306 例，治愈 75612 例，国外确诊 600823 例
+    - 北京境外输入病例数量居全国之首
+    - 钟南山：中国还没有大量的“无症状感染者”
+    - 周末数据激增，全球确诊超67万！我国本土疫情传播已基本阻断，明天A股怎么走？
+    - 全球疫情晚报｜国外确诊病例近60万，美国日增近2万
+
 - [2020年03月28日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200328.md)
     - 截止2020年03月28日22:00，全国确诊 82280 例，疑似 184 例，死亡 3301 例，治愈 75142 例，国外确诊 531694 例
     - 参考快讯 | 白宫称特朗普祝愿英国首相约翰逊“早日康复”
