@@ -47,6 +47,13 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年03月30日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200330.md)
+    - 截止2020年03月30日21:00，全国确诊 82506 例，疑似 168 例，死亡 3313 例，治愈 75955 例，国外确诊 656204 例
+    - 全球累计确诊病例增速连续7天超10%，做好境外国门家门的全链条防控
+    - 湖北黄冈市人大常委会：免去唐志红黄冈市卫健委主任职务
+    - 中央要求突出做好无症状感染者防控！
+    - 东京奥运官宣明年7月23日开幕 残奥会8月24日举行
+
 - [2020年03月29日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200329.md)
     - 截止2020年03月29日22:31，全国确诊 82421 例，疑似 174 例，死亡 3306 例，治愈 75612 例，国外确诊 600823 例
     - 北京境外输入病例数量居全国之首
