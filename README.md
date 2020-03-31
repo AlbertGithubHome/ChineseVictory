@@ -47,6 +47,13 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年03月31日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200331.md)
+    - 截止2020年03月31日21:00，全国确诊 82599 例，疑似 183 例，死亡 3314 例，治愈 76239 例，国外确诊 721042 例
+    - 特朗普证实收到中俄援助物资:中国给我们的物资非常好！
+    - 定了！高考延期一个月
+    - 约翰斯·霍普金斯大学：全球新冠肺炎确诊病例超过80万例
+    - 外媒：美国确诊病例超过16.5万，已比中国确诊病例的2倍还多
+
 - [2020年03月30日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200330.md)
     - 截止2020年03月30日21:00，全国确诊 82506 例，疑似 168 例，死亡 3313 例，治愈 75955 例，国外确诊 656204 例
     - 全球累计确诊病例增速连续7天超10%，做好境外国门家门的全链条防控
