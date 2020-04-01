@@ -47,6 +47,13 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年04月01日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200401.md)
+    - 截止2020年04月01日22:48，全国确诊 82691 例，疑似 172 例，死亡 3321 例，治愈 76440 例，国外确诊 800975 例
+    - 国外疫情肆虐，全球供应链受冲击，ASML约1/4订单将取消或推迟
+    - 钟南山判断国内不会有第二波疫情高峰
+    - 张文宏：无症状没有这么可怕 但不能忽略
+    - 每经热评｜应更及时详细披露无症状感染者足迹
+
 - [2020年03月31日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/03/20200331.md)
     - 截止2020年03月31日21:00，全国确诊 82599 例，疑似 183 例，死亡 3314 例，治愈 76239 例，国外确诊 721042 例
     - 特朗普证实收到中俄援助物资:中国给我们的物资非常好！
