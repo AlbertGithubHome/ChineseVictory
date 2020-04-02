@@ -47,6 +47,13 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年04月02日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200402.md)
+    - 截止2020年04月02日21:30，全国确诊 82773 例，疑似 153 例，死亡 3327 例，治愈 76625 例，国外确诊 878521 例
+    - 湖北14名防疫一线牺牲人员被评为首批烈士
+    - 首位新冠疫苗试验女生结束观察，CT结果出了！
+    - 京都一大学暴发疫情，至少27名学生确诊
+    - 美国多地护士决定辞职，原因让人愤怒
+
 - [2020年04月01日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200401.md)
     - 截止2020年04月01日22:48，全国确诊 82691 例，疑似 172 例，死亡 3321 例，治愈 76440 例，国外确诊 800975 例
     - 国外疫情肆虐，全球供应链受冲击，ASML约1/4订单将取消或推迟
