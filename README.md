@@ -47,6 +47,13 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年04月04日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200404.md)
+    - 截止2020年04月04日21:30，全国确诊 82902 例，疑似 114 例，死亡 3335 例，治愈 76996 例，国外确诊 1052548 例
+    - 全国哀悼，祭奠是为了更好地继续前行
+    - 全球确诊病例超110万 美国CDC建议民众佩戴口罩
+    - 本土现有确诊病例降至900例以下，全球疫情爆发增长
+    - 农业农村部回应囤积抢购：没必要！粮食还是要吃新的好！
+
 - [2020年04月03日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200403.md)
     - 截止2020年04月03日22:30，全国确诊 82815 例，疑似 135 例，死亡 3331 例，治愈 76793 例，国外确诊 954329 例
     - 4月4日0:00起，腾讯游戏旗下运营所有产品（含中国大陆和中国港澳台地区）将停服一天
