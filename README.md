@@ -47,6 +47,13 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年04月05日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200405.md)
+    - 截止2020年04月05日22:00，全国确诊 82966 例，疑似 107 例，死亡 3338 例，治愈 77253 例，国外确诊 1134153 例
+    - 北京市委宣传部副部长：基本阻断新冠肺炎疫情扩散蔓延，防控将常态化
+    - 厦门力促旅游酒店业：6月30日前国有A级景区全免费
+    - 全球单日新增确诊病例首次超10万！北京或较长时期处于疫情防控状态
+    - 又见人从众！“报复性旅游”别让防控成果“黄”了！
+
 - [2020年04月04日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200404.md)
     - 截止2020年04月04日21:30，全国确诊 82902 例，疑似 114 例，死亡 3335 例，治愈 76996 例，国外确诊 1052548 例
     - 全国哀悼，祭奠是为了更好地继续前行
