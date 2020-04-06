@@ -47,6 +47,13 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年04月06日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200406.md)
+    - 截止2020年04月06日20:30，全国确诊 83040 例，疑似 88 例，死亡 3340 例，治愈 77369 例，国外确诊 1204087 例
+    - 世卫组织称中国进入缓疫阶段
+    - 张文宏担心病毒在全世界蔓延
+    - 截至4月6日12时，全球感染人数超125万例
+    - 专家提示：无证据证明杨柳絮中存在新冠肺炎病毒 | 权威发布
+
 - [2020年04月05日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200405.md)
     - 截止2020年04月05日22:00，全国确诊 82966 例，疑似 107 例，死亡 3338 例，治愈 77253 例，国外确诊 1134153 例
     - 北京市委宣传部副部长：基本阻断新冠肺炎疫情扩散蔓延，防控将常态化
