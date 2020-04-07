@@ -47,6 +47,13 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年04月07日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200407.md)
+    - 截止2020年04月07日22:00，全国确诊 83096 例，疑似 89 例，死亡 3340 例，治愈 77490 例，国外确诊 1281963 例
+    - 安倍晋三宣布日本进入紧急状态
+    - 中国铁路武汉局：明日预计5.5万余名旅客乘火车离汉
+    - 外交部回应中国排外情绪上升言论：反对一切形式的歧视与偏见
+    - 好久不见！武汉热干面店客流恢复疫情前水平
+
 - [2020年04月06日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200406.md)
     - 截止2020年04月06日20:30，全国确诊 83040 例，疑似 88 例，死亡 3340 例，治愈 77369 例，国外确诊 1204087 例
     - 世卫组织称中国进入缓疫阶段
