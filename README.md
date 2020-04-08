@@ -47,6 +47,15 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年04月08日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200408.md)
+    - 截止2020年04月08日21:32，全国确诊 83189 例，疑似 83 例，死亡 3342 例，治愈 77537 例，国外确诊 1369055 例
+    - 武汉，解封！
+    - 国际劳工组织：疫情已影响全球超八成劳动人口
+    - 武汉2万多名环卫人员开展全市大扫除
+    - 真金白银！推特CEO将捐28%财富抗疫 系最大个人捐款
+    - 钟南山录视频为高三学子加油
+    - 中俄陆路边境口岸人员通道全部临时关闭
+
 - [2020年04月07日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200407.md)
     - 截止2020年04月07日22:00，全国确诊 83096 例，疑似 89 例，死亡 3340 例，治愈 77490 例，国外确诊 1281963 例
     - 安倍晋三宣布日本进入紧急状态
