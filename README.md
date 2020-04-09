@@ -47,6 +47,14 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年04月09日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200409.md)
+    - 截止2020年04月09日22:00，全国确诊 83264 例，疑似 73 例，死亡 3344 例，治愈 77766 例，国外确诊 1453103 例
+    - 比尔盖茨称中国是复工典范：美国或到明年秋天才安全
+    - 五一连休五天上热搜！网友看完扎心了……
+    - 外交部：从不“输出”中国模式，也从未要求“抄中国作业”
+    - 北京一级响应机制目前不作调整，建立常态化防控机制
+    - 张文宏：武汉解封后或成中国最安全城市
+
 - [2020年04月08日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200408.md)
     - 截止2020年04月08日21:32，全国确诊 83189 例，疑似 83 例，死亡 3342 例，治愈 77537 例，国外确诊 1369055 例
     - 武汉，解封！
