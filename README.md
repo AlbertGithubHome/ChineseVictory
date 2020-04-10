@@ -47,6 +47,12 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年04月10日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200410.md)
+    - 截止2020年04月10日21:46，全国确诊 83323 例，疑似 57 例，死亡 3346 例，治愈 77882 例，国外确诊 1537284 例
+    - 世卫组织：新冠肺炎病亡率估计比流感高10倍
+    - 钟南山称群体免疫行不通
+    - 疫情已扩散至全球211个国家和地区，累计确诊超156万例
+
 - [2020年04月09日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200409.md)
     - 截止2020年04月09日22:00，全国确诊 83264 例，疑似 73 例，死亡 3344 例，治愈 77766 例，国外确诊 1453103 例
     - 比尔盖茨称中国是复工典范：美国或到明年秋天才安全
