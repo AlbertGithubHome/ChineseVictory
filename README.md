@@ -47,6 +47,13 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年04月11日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200411.md)
+    - 截止2020年04月11日22:01，全国确诊 83404 例，疑似 139 例，死亡 3349 例，治愈 77981 例，国外确诊 1638806 例
+    - 国家医保局：新冠肺炎重症患者人均治疗费用超15万 均予以报销
+    - 博物馆收藏援鄂用品，医护：以后带娃来看
+    - 个别省份又出现聚集性病例 国家卫健委：不扎堆少聚集
+    - 西班牙约25000名医护人员感染新冠肺炎
+
 - [2020年04月10日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200410.md)
     - 截止2020年04月10日21:46，全国确诊 83323 例，疑似 57 例，死亡 3346 例，治愈 77882 例，国外确诊 1537284 例
     - 世卫组织：新冠肺炎病亡率估计比流感高10倍
