@@ -47,6 +47,13 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年04月12日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200412.md)
+    - 截止2020年04月12日21:00，全国确诊 83524 例，疑似 82 例，死亡 xxxx 例，治愈 78062 例，国外确诊 1711053 例
+    - 海外疫情冲击核心部件，国内射频芯片迎来契机
+    - 北京中、高考时间确定 高三年级4月27日返校
+    - 广州一美食店隐瞒客人堂食多人确诊
+    - 英国首相鲍里斯-约翰逊病愈出院
+
 - [2020年04月11日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200411.md)
     - 截止2020年04月11日22:01，全国确诊 83404 例，疑似 139 例，死亡 3349 例，治愈 77981 例，国外确诊 1638806 例
     - 国家医保局：新冠肺炎重症患者人均治疗费用超15万 均予以报销
