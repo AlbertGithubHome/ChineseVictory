@@ -47,6 +47,11 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年04月13日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200413.md)
+    - 截止2020年04月13日22:00，全国确诊 83607 例，疑似 72 例，死亡 3351 例，治愈 78209 例，国外确诊 1786524 例
+    - 疫情期间，看国外的网友是如何羡慕中国的
+    - 英国首相约翰逊出院前新冠病毒检测呈阴性
+
 - [2020年04月12日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200412.md)
     - 截止2020年04月12日21:00，全国确诊 83524 例，疑似 82 例，死亡 xxxx 例，治愈 78062 例，国外确诊 1711053 例
     - 海外疫情冲击核心部件，国内射频芯片迎来契机
