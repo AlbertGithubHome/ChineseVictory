@@ -47,6 +47,13 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年04月14日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200414.md)
+    - 截止2020年04月14日22:01，全国确诊 xxxxx 例，疑似 xxxx 例，死亡 xxxx 例，治愈 xxxxx 例，国外确诊 xxxxx 例
+    - 看到特朗普记者会这一幕，CNN直接切断直播
+    - 钟南山：新冠肺炎治愈者肺功能有所下降 但无明显后遗症
+    - 新冠病毒蔓延到底有多迅猛？1分钟扩散整个超市通道！
+    - IMF预计今年全球经济将萎缩3%
+
 - [2020年04月13日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200413.md)
     - 截止2020年04月13日22:00，全国确诊 83607 例，疑似 72 例，死亡 3351 例，治愈 78209 例，国外确诊 1786524 例
     - 疫情期间，看国外的网友是如何羡慕中国的
