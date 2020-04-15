@@ -47,6 +47,12 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年04月15日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200415.md)
+    - 截止2020年04月15日22:00，全国确诊 83751 例，疑似 73 例，死亡 3352 例，治愈 78444 例，国外确诊 1829833 例
+    - 五一能不能出去玩？海外留学生应怎样防护？李兰娟给出建议
+    - 赵立坚：中方已经向世卫组织捐款2000万美元
+    - 全球新冠确诊病例已超过200万例
+
 - [2020年04月14日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200414.md)
     - 截止2020年04月14日22:01，全国确诊 xxxxx 例，疑似 xxxx 例，死亡 xxxx 例，治愈 xxxxx 例，国外确诊 xxxxx 例
     - 看到特朗普记者会这一幕，CNN直接切断直播
