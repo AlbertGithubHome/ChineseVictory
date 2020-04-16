@@ -47,6 +47,12 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年04月16日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200416.md)
+    - 截止2020年04月16日21:41，全国确诊 83799 例，疑似 63 例，死亡 3352 例，治愈 78556 例，国外确诊 2013363 例
+    - 高盛预计2020年全球GDP增速下降2.5%
+    - 安倍正式宣布日本全国进入紧急状态
+    - 吉利德回应瑞德西韦中国两项临床试验提前终止：仍期待数据发表和结果评审
+
 - [2020年04月15日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200415.md)
     - 截止2020年04月15日22:00，全国确诊 83751 例，疑似 73 例，死亡 3352 例，治愈 78444 例，国外确诊 1829833 例
     - 五一能不能出去玩？海外留学生应怎样防护？李兰娟给出建议
