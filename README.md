@@ -47,6 +47,12 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年04月17日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200417.md)
+    - 截止2020年04月17日22:01，全国确诊 84156 例，疑似 62 例，死亡 4642 例，治愈 77722 例，国外确诊 2103405 例
+    - 哈尔滨副市长陈远飞等18人被问责
+    - 财政部：2020年养老金上涨5%
+    - 新华社：“断供”世卫 企图“甩锅”却失了人心
+
 - [2020年04月16日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200416.md)
     - 截止2020年04月16日21:41，全国确诊 83799 例，疑似 63 例，死亡 3352 例，治愈 78556 例，国外确诊 2013363 例
     - 高盛预计2020年全球GDP增速下降2.5%
