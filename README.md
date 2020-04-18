@@ -47,6 +47,13 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年04月18日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200418.md)
+    - 截止2020年04月18日22:31，全国确诊 84185 例，疑似 63 例，死亡 4642 例，治愈 77796 例，国外确诊 2190313 例
+    - 揪心！印度确诊病例20天涨近20倍，这个地方或将有逾1亿人感染
+    - 印度确诊病例20天涨近20倍
+    - 美国确诊超70万！如果提前2周采取行动 现在会怎样？
+    - 京津冀实现健康码互认，北京不再要求企业到岗率不超50%
+
 - [2020年04月17日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200417.md)
     - 截止2020年04月17日22:01，全国确诊 84156 例，疑似 62 例，死亡 4642 例，治愈 77722 例，国外确诊 2103405 例
     - 哈尔滨副市长陈远飞等18人被问责
