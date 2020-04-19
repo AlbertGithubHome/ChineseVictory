@@ -47,6 +47,13 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年04月19日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200419.md)
+    - 截止2020年04月19日22:34，全国确诊 84226 例，疑似 48 例，死亡 4642 例，治愈 77886 例，国外确诊 2282810 例
+    - 国家卫健委：个别省份境外输入引起的本土聚集性病例持续增加
+    - 河北学生因疫情未住校可退住宿费
+    - 抗疫同声世界一家 这场世界顶级演唱会筹款数惊人
+    - 黑龙江绥芬河：25吨酒精22万个口罩免费发放居民
+
 - [2020年04月18日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200418.md)
     - 截止2020年04月18日22:31，全国确诊 84185 例，疑似 63 例，死亡 4642 例，治愈 77796 例，国外确诊 2190313 例
     - 揪心！印度确诊病例20天涨近20倍，这个地方或将有逾1亿人感染
