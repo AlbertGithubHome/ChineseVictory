@@ -47,6 +47,11 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年04月21日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200421.md)
+    - 截止2020年04月21日03:10，全国确诊 84278 例，疑似 37 例，死亡 4642 例，治愈 77982 例，国外确诊 2415530 例
+    - 国家卫健委：出院患者体内有特异性抗体 不会感染他人
+    - 机构统计：全球累计新冠肺炎确诊病例超过250万例
+
 - [2020年04月20日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200420.md)
     - 截止2020年04月20日21:31，全国确诊 84239 例，疑似 43 例，死亡 xxxx 例，治愈 77904 例，国外确诊 2339829 例
     - 巴西总统参加反居家隔离集会：对上百人激动喊话、未戴口罩多次咳嗽
