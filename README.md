@@ -47,6 +47,13 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年04月22日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200422.md)
+    - 截止2020年04月22日22:01，全国确诊 84294 例，疑似 35 例，死亡 4642 例，治愈 78096 例，国外确诊 2504676 例
+    - 哈尔滨卫健委披露院内感染原因
+    - 最新：全球感染人数已超252万例
+    - 致敬 | 钟南山：​“我们挺过来了！”
+    - 我国将大规模开展核酸和抗体检测 扩大商业应用
+
 - [2020年04月21日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200421.md)
     - 截止2020年04月21日03:10，全国确诊 84278 例，疑似 37 例，死亡 4642 例，治愈 77982 例，国外确诊 2415530 例
     - 国家卫健委：出院患者体内有特异性抗体 不会感染他人
