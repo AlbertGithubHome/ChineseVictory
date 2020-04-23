@@ -47,6 +47,10 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年04月23日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200423.md)
+    - 截止2020年04月23日21:30，全国确诊 84306 例，疑似 20 例，死亡 4642 例，治愈 78193 例，国外确诊 2583331 例
+    - 中疾控：三类高危人群不建议五一出游
+
 - [2020年04月22日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200422.md)
     - 截止2020年04月22日22:01，全国确诊 84294 例，疑似 35 例，死亡 4642 例，治愈 78096 例，国外确诊 2504676 例
     - 哈尔滨卫健委披露院内感染原因
