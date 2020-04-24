@@ -47,6 +47,13 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年04月24日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200424.md)
+    - 截止2020年04月24日21:28，全国确诊 84313 例，疑似 21 例，死亡 4642 例，治愈 xxxxx 例，国外确诊 78265 例
+    - 视频|“抗疫鬼才”特朗普：体内注射消毒剂治新冠
+    - 实锤！美疫情提前至12月，死者没来过中国
+    - 我国首个新冠灭活疫苗进入Ⅱ期临床
+    - 国家卫健委：武汉现有确诊病例多为常阳患者 已无需治疗
+
 - [2020年04月23日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200423.md)
     - 截止2020年04月23日21:30，全国确诊 84306 例，疑似 20 例，死亡 4642 例，治愈 78193 例，国外确诊 2583331 例
     - 中疾控：三类高危人群不建议五一出游
