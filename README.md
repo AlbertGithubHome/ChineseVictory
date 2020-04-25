@@ -47,6 +47,13 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年04月25日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200425.md)
+    - 截止2020年04月25日22:00，全国确诊 84330 例，疑似 17 例，死亡 4642 例，治愈 78416 例，国外确诊 2747295 例
+    - 美国FDA警告：总统推荐的“神药”，慎用！
+    - 警惕！境外输入来源国增加到50个！
+    - 20位顶配医疗专家4月26日起陆续撤离武汉
+    - 全球单日新增确诊病例逾10万例 美国确诊超90万
+
 - [2020年04月24日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200424.md)
     - 截止2020年04月24日21:28，全国确诊 84313 例，疑似 21 例，死亡 4642 例，治愈 xxxxx 例，国外确诊 78265 例
     - 视频|“抗疫鬼才”特朗普：体内注射消毒剂治新冠
