@@ -47,6 +47,10 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年04月26日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200426.md)
+    - 截止2020年04月26日21:30，全国确诊 84338 例，疑似 15 例，死亡 4642 例，治愈 78481 例，国外确诊 2855864 例
+    - 武汉在院新冠肺炎患者清零！“常阳患者”无需治疗，传染性尚无定论，仍处于隔离观察中
+
 - [2020年04月25日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200425.md)
     - 截止2020年04月25日22:00，全国确诊 84330 例，疑似 17 例，死亡 4642 例，治愈 78416 例，国外确诊 2747295 例
     - 美国FDA警告：总统推荐的“神药”，慎用！
