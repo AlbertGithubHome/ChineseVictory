@@ -47,6 +47,12 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年04月27日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200427.md)
+    - 截止2020年04月27日21:31，全国确诊 84341 例，疑似 10 例，死亡 4643 例，治愈 78580 例，国外确诊 2938056 例
+    - 国家卫健委：全国现有本土确诊病例降至100例以下
+    - 比尔盖茨谈中国负责论，比较了中美两国
+    - 新闻联播痛斥蓬佩奥：人类公敌！
+
 - [2020年04月26日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200426.md)
     - 截止2020年04月26日21:30，全国确诊 84338 例，疑似 15 例，死亡 4642 例，治愈 78481 例，国外确诊 2855864 例
     - 武汉在院新冠肺炎患者清零！“常阳患者”无需治疗，传染性尚无定论，仍处于隔离观察中
