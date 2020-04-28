@@ -48,16 +48,9 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 - [2020年04月28日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200428.md)
-    - 截止2020年04月28日21:30，全国确诊 xxxxx 例，疑似 xxxx 例，死亡 xxxx 例，治愈 xxxxx 例，国外确诊 xxxxx 例
-    - xxxxxx
-    - xxxxxx
-    - xxxxxx
-    - xxxxxx
-    - xxxxxx
-    - xxxxxx
-    - xxxxxx
-    - xxxxxx
-    - xxxxxx
+    - 截止2020年04月28日21:30，全国确诊 84367 例，疑似 9 例，死亡 4643 例，治愈 78716 例，国外确诊 3005060 例
+    - 东京奥组委主席：若2021年疫情仍未受控 东京奥运会将取消
+    - 全球确诊300万+，官方数据还代表真相吗
 
 - [2020年04月27日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200427.md)
     - 截止2020年04月27日21:31，全国确诊 84341 例，疑似 10 例，死亡 4643 例，治愈 78580 例，国外确诊 2938056 例
