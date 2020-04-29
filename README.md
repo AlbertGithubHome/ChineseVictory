@@ -47,6 +47,11 @@ Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新�
 
 
 
+- [2020年04月29日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200429.md)
+    - 截止2020年04月29日21:43，全国确诊 84369 例，疑似 10 例，死亡 4643 例，治愈 78766 例，国外确诊 3081096 例
+    - 北京下调应急响应级别 但入境人员健康观察增加7天
+    - 周知！京津冀均下调应急响应级别至二级
+
 - [2020年04月28日主要新闻](https://github.com/AlbertGithubHome/ChineseVictory/blob/master/MajorNews/04/20200428.md)
     - 截止2020年04月28日21:30，全国确诊 84367 例，疑似 9 例，死亡 4643 例，治愈 78716 例，国外确诊 3005060 例
     - 东京奥组委主席：若2021年疫情仍未受控 东京奥运会将取消
